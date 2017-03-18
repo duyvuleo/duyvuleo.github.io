@@ -4,9 +4,9 @@
     {% if paper.venue == include.venue %}
       <li>
       {% if paper.authors %}
-        {{ paper.authors | replace: 'With', 'Cong Duy Vu Hoang,' }}. 
+        {{ paper.authors | replace: 'With', 'Cong Duy Vu Hoang' }}. 
       {% else %}
-        Adam Lopez.
+        Cong Duy Vu Hoang.
       {% endif %}
       {{ paper.year }}. 
       {{ paper.title }}. 
