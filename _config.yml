@@ -83,7 +83,7 @@ papers:
     title: Perspectives on Crowdsourcing Annotations for Natural Language Processing
     authors: Aobo Wang, Cong Duy Vu Hoang, Min-Yen Kan
     journal: Language Resources and Evaluation Journal (JLRE)
-    journal-url: https://arxiv.org/pdf/1701.02854.pdf
+    journal-url: http://dl.acm.org/citation.cfm?id=2447293
     doc-url: 
     abstract: > 
       Crowdsourcing has emerged as a new method for obtaining annotations for training models for machine learning. While many variants of this process exist, they largely differ in their methods of motivating subjects to contribute and the scale of their applications. To date, there has yet to be a study that helps the practitioner to decide what form an annotation application should take to best reach its objectives within the constraints of a project. To fill this gap, we provide a faceted analysis of crowdsourcing from a practitioner’s perspective, and show how our facets apply to existing published crowdsourced annotation applications. We then summarize how the major crowdsourcing genres fill different parts of this multi-dimensional space, which leads to our recommendations on the potential opportunities crowdsourcing offers to future annotation efforts.
