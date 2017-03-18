@@ -9,10 +9,10 @@ papers:
     title: Decoding as Continuous Optimization in Neural Machine Translation
     authors: Cong Duy Vu Hoang, Gholamreza Haffari and Trevor Cohn
     journal: arXiv preprint (under review at ACL 2017)
-    journal-url: https://arxiv.org/pdf/1701.02854.pdf
-    doc-url:
+    journal-url: https://arxiv.org/abs/1701.02854
+    doc-url: https://arxiv.org/pdf/1701.02854.pdf
     abstract: > 
-            We propose a novel decoding approach for neural machine translation (NMT) based on continuous optimisation. The resulting optimisation problem is then tackled using constrained gradient optimisation. Our powerful decoding framework, enables decoding intractable models such as the intersection of left-to-right and right-to-left (bidirectional) as well as source-to-target and target-to-source (bilingual) NMT models. Our empirical results show that our decoding framework is effective, and leads to substantial improvements in translations generated from the intersected models where the typical greedy or beam search is infeasible.
+      We propose a novel decoding approach for neural machine translation (NMT) based on continuous optimisation. The resulting optimisation problem is then tackled using constrained gradient optimisation. Our powerful decoding framework, enables decoding intractable models such as the intersection of left-to-right and right-to-left (bidirectional) as well as source-to-target and target-to-source (bilingual) NMT models. Our empirical results show that our decoding framework is effective, and leads to substantial improvements in translations generated from the intersected models where the typical greedy or beam search is infeasible.
   - layout: paper
     paper-type: inproceedings
     selected: yes
@@ -83,8 +83,8 @@ papers:
     title: Perspectives on Crowdsourcing Annotations for Natural Language Processing
     authors: Aobo Wang, Cong Duy Vu Hoang, Min-Yen Kan
     journal: Language Resources and Evaluation Journal (JLRE)
-    journal-url: http://dl.acm.org/citation.cfm?id=2447293
-    doc-url: 
+    journal-url: http://www.elda.org/en/dissemination/jlre-language-resources-and-evaluation-journal/
+    doc-url: http://dl.acm.org/citation.cfm?id=2447293
     abstract: > 
       Crowdsourcing has emerged as a new method for obtaining annotations for training models for machine learning. While many variants of this process exist, they largely differ in their methods of motivating subjects to contribute and the scale of their applications. To date, there has yet to be a study that helps the practitioner to decide what form an annotation application should take to best reach its objectives within the constraints of a project. To fill this gap, we provide a faceted analysis of crowdsourcing from a practitioner’s perspective, and show how our facets apply to existing published crowdsourced annotation applications. We then summarize how the major crowdsourcing genres fill different parts of this multi-dimensional space, which leads to our recommendations on the potential opportunities crowdsourcing offers to future annotation efforts.
   - layout: paper
