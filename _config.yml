@@ -1,0 +1,27 @@
+exclude: ['README.md']
+timezone: AU
+papers:
+  - layout: paper
+    paper-type: inproceedings
+    year: 2017
+    img: 
+    title: 
+    authors: 
+    booktitle: 
+    booktitle-url: 
+    doc-url:  
+    venue: conference
+    abstract: >
+  - layout: paper
+    paper-type: article 
+    year: 2015
+    img: 
+    title: 
+    doc-url: 
+    authors: 
+    journal: 
+    journal-url: 
+    code: 
+    volume: 
+    abstract: >
+     

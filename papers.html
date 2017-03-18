@@ -1,0 +1,15 @@
+---
+layout: default
+title: Vu (Cong Duy) Hoang | Papers
+picture: levitated-mass
+---
+
+<div class="page-header">
+  <h3>Papers</h3>
+<blockquote><i>The science of today is the technology of tomorrow.<br/>&mdash;Edward Teller</i></blockquote>
+</div>
+
+{% for post in site.papers %}
+  {% include paper.html paper=post %}
+{% endfor %}
+
