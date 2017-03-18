@@ -4,7 +4,7 @@
     {% if paper.venue == include.venue %}
       <li>
       {% if paper.authors %}
-      {{ paper.authors | replace: 'Cong Duy Vu Hoang', '<b>Cong Duy Vu Hoang</b>' }}. 
+      {{ paper.authors.replace('Cong Duy Vu Hoang', '<strong>Cong Duy Vu Hoang</strong>') }}. 
       {% else %}
         Cong Duy Vu Hoang.
       {% endif %}
