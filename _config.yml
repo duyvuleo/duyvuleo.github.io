@@ -11,6 +11,7 @@ papers:
     journal: arXiv preprint (under review at ACL 2017)
     journal-url: https://arxiv.org/abs/1701.02854
     doc-url: https://arxiv.org/pdf/1701.02854.pdf
+    code: https://github.com/duyvuleo/Mantidae
     abstract: > 
       We propose a novel decoding approach for neural machine translation (NMT) based on continuous optimisation. The resulting optimisation problem is then tackled using constrained gradient optimisation. Our powerful decoding framework, enables decoding intractable models such as the intersection of left-to-right and right-to-left (bidirectional) as well as source-to-target and target-to-source (bilingual) NMT models. Our empirical results show that our decoding framework is effective, and leads to substantial improvements in translations generated from the intersected models where the typical greedy or beam search is infeasible.
   - layout: paper
@@ -36,6 +37,7 @@ papers:
     booktitle: Proceedings of NAACL-16 (long)
     booktitle-url: http://naacl.org/naacl-hlt-2016
     doc-url: http://www.aclweb.org/anthology/N16-1102
+    code: https://github.com/duyvuleo/mantis
     venue: conference
     abstract: >
       Neural encoder-decoder models of machine translation have achieved impressive results, rivalling traditional translation models. However their modelling formulation is overly simplistic, and omits several key inductive biases built into traditional models. In this paper we extend the attentional neural translation model to include structural biases from word based alignment models, including positional bias, Markov conditioning, fertility and agreement over translation directions. We show improvements over a baseline attentional model and standard phrase-based model over several language pairs, evaluating on difficult languages in a low resource setting.
@@ -61,6 +63,7 @@ papers:
     booktitle: Proceedings of the NIST Open Machine Translation Evaluation (OpenMT15)
     booktitle-url: https://www.nist.gov/itl/iad/mig/openmt15-evaluation
     doc-url: http://www.statmt.org/OSMOSES/i2r.pdf
+    result: ftp://jaguar.ncsl.nist.gov/mt/mt2015/openmt15results.html
     venue: workshop
     abstract: >
       In this paper, we describe our system and approach used for the NIST Open Machine Translation 2015 (OpenMT15) evaluation campaign in the Chinese-to-English SMS/Chat and CTS category. A multi-pass approach was exploited to generate and select the best translation. First, we train multiple systems using the Moses phrase-based decoder and the Moses hierarchical-phrase-based decoder. Each system uses different features and pre/post-processing to ensure translation knowledge diversity. Next, for each of the system, we perform N-best rescoring by adding additional features to obtain 1-best translation. Finally, we combine the 1-best translation from each of these systems to select the best translation by re-scoring and re-ranking them with additional feature functions. In particular, this paper reports our effort in data processing, system training and system combination, as well as our performance on OpenMT15 Chinese-English task.
@@ -108,6 +111,7 @@ papers:
     booktitle: Proceedings of the 23rd International Conference on Computational Linguistics (COLING) (long)
     booktitle-url: https://nlp.stanford.edu/coling10/full-program.html
     doc-url: http://dl.acm.org/citation.cfm?id=1944615
+    data: https://github.com/duyvuleo/RelatedWorkSummarizationDataset
     venue: conference
     abstract: >
       We introduce the novel problem of automatic related work summarization. Given multiple articles (e.g., conference/journal papers) as input, a related work summarization system creates a topic-biased summary of related work specific to the target paper. Our prototype Related Work Summarization system, ReWoS, takes in set of keywords arranged in a hierarchical fashion that describes a target paper's topics, to drive the creation of an extractive summary using two different strategies for locating appropriate sentences for general topics as well as detailed ones. Our initial results show an improvement over generic multi-document summarization baselines in a human evaluation.
@@ -143,6 +147,7 @@ papers:
     booktitle: Proceedings of IEEE International Conference on Research, Innovation and Vision for the Future (RIVF 2007) (long)
     booktitle-url: 
     doc-url: http://ieeexplore.ieee.org/abstract/document/4223084/
+    data: 
     venue: conference
     abstract: >
       Text classification concerns the problem of automatically assigning given text passages (or documents) into predefined categories (or topics). Whereas a wide range of methods have been applied to English text classification, relatively few studies have been done on Vietnamese text classification. Based on a Vietnamese news corpus, we present two different approaches for the Vietnamese text classification problem. By using the Bag Of Words - BOW and Statistical N-Gram Language Modeling - N-Gram approaches we were able to evaluate these two widely used classification approaches for our task and showed that these approaches could achieve an average of >95% accuracy with an average 79 minutes classifying time for about 14,000 documents (3 docs/sec). Additionally, we also analyze the advantages and disadvantages of each approach to find out the best method in specific circumstances.
