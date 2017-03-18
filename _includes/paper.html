@@ -31,9 +31,10 @@
     {% endcase %} 
     {{ include.paper.year }}.<br/>
     {% if include.paper.abstract %}
-    <!--  <a data-toggle="modal" href="#abstract{{ include.paper.img }}" class="label label-default">Abstract</a>
+    <a data-toggle="modal" href="#abstract{{ include.paper.img }}" class="label label-default">Abstract</a>
       <!-- Modal -->
-      <div class="modal hide fade" id="abstract{{ include.paper.img }}" tabindex="-1" role="dialog" aria-hidden="true"> <div class="modal-dialog">
+      <div class="modal hide fade" id="abstract{{ include.paper.img }}" tabindex="-1" role="dialog" aria-hidden="true"> 
+	<div class="modal-dialog">
           <div class="modal-content">
             <div class="modal-header">
               <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
@@ -44,19 +45,7 @@
             </div>
           </div><!-- /.modal-content -->
         </div><!-- /.modal-dialog -->
-      </div><!-- /.modal --> -->
-  <div class="accordion" id="accordionid">
-     <div class="accordion-heading">
-      <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordionid" href="#collapseOne">
-        Abstract
-      </a>
-    </div>
-    <div id="collapseOne" class="accordion-body collapse in">
-      <div class="accordion-inner">
-        {{ include.paper.abstract }}
-      </div>
-    </div>
-  </div>
+      </div><!-- /.modal -->
     {% endif %}
     {% if include.paper.errata %}
       <!-- Modal -->
