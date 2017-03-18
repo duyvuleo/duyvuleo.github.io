@@ -5,7 +5,7 @@ papers:
     paper-type: article
     selected: yes
     year: 2017
-    img: DecodingasContinuousOptimizationinNeuralMachineTranslation
+    img: arxiv2017-relopt
     title: Decoding as Continuous Optimization in Neural Machine Translation
     authors: Cong Duy Vu Hoang, Gholamreza Haffari and Trevor Cohn
     journal: arXiv preprint 
@@ -14,3 +14,42 @@ papers:
     venue: (under review at ACL 2017)
     abstract: > 
             We propose a novel decoding approach for neural machine translation (NMT) based on continuous optimisation. The resulting optimisation problem is then tackled using constrained gradient optimisation. Our powerful decoding framework, enables decoding intractable models such as the intersection of left-to-right and right-to-left (bidirectional) as well as source-to-target and target-to-source (bilingual) NMT models. Our empirical results show that our decoding framework is effective, and leads to substantial improvements in translations generated from the intersected models where the typical greedy or beam search is infeasible.
+  - layout: paper
+    paper-type: inproceedings
+    selected: yes
+    year: 2016
+    img: alta2017-nmt-factors
+    title: Towards speech-to-text translation without speech recognition
+    authors: Cong Duy Vu Hoang, Reza Haffari and Trevor Cohn
+    booktitle: Proceedings of ALTA (long)
+    booktitle-url: http://alta2016.alta.asn.au
+    doc-url: http://aclweb.org/anthology/U16-1001
+    venue: conference
+    abstract: >
+      This paper presents an extension of neural machine translation (NMT) model to incorporate additional word-level linguistic factors. Adding such linguistic factors may be of great benefits to learning of NMT models, potentially reducing language ambiguity or alleviating data sparseness problem (Koehn and Hoang, 2007). We explore different linguistic annotations at the word level, including: lemmatization, word clusters, Part-of-Speech tags, and labeled dependency relations. We then propose different neural attention architectures to integrate these additional factors into the NMT framework. Evaluating on translating between English and German in two directions with a low resource setting in the domain of TED talks, we obtain promising results in terms of both perplexity reductions and improved BLEU scores over baseline methods.
+  - layout: paper
+    paper-type: inproceedings
+    selected: yes
+    year: 2016
+    img: alta2017-nmt-factors
+    title: Incorporating Structural Alignment Biases into an Attentional Neural Translation Model
+    authors: Trevor Cohn, Cong Duy Vu Hoang, Ekaterina Vylomova, Kaisheng Yao, Chris Dyer and Gholamreza Haffari
+    booktitle: Proceedings of NAACL-16 (long)
+    booktitle-url: http://naacl.org/naacl-hlt-2016
+    doc-url: http://www.aclweb.org/anthology/N16-1102
+    venue: conference
+    abstract: >
+      Neural encoder-decoder models of machine translation have achieved impressive results, rivalling traditional translation models. However their modelling formulation is overly simplistic, and omits several key inductive biases built into traditional models. In this paper we extend the attentional neural translation model to include structural biases from word based alignment models, including positional bias, Markov conditioning, fertility and agreement over translation directions. We show improvements over a baseline attentional model and standard phrase-based model over several language pairs, evaluating on difficult languages in a low resource setting.
+  - layout: paper
+    paper-type: inproceedings
+    selected: yes
+    year: 2016
+    img: alta2017-nmt-factors
+    title: Incorporating Side Information into Recurrent Neural Network Language Models
+    authors: Trevor Cohn, Cong Duy Vu Hoang, Ekaterina Vylomova, Kaisheng Yao, Chris Dyer and Gholamreza Haffari
+    booktitle: Proceedings of NAACL-16 (short)
+    booktitle-url: http://naacl.org/naacl-hlt-2016
+    doc-url: https://www.aclweb.org/anthology/N/N16/N16-1149.pdf
+    venue: conference
+    abstract: >
+      Recurrent neural network language models (RNNLM) have recently demonstrated vast potential in modelling long-term dependencies for NLP problems, ranging from speech recognition to machine translation. In this work, we propose methods for conditioning RNNLMs on external side information, e.g., metadata such as keywords or document title. Our experiments show consistent improvements of RNNLMs using side information over the baselines for two different datasets and genres in two languages. Interestingly, we found that side information in a foreign language can be highly beneficial in modelling texts in another language, serving as a form of cross-lingual language modelling.
