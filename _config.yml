@@ -5,13 +5,13 @@ papers:
     paper-type: article
     selected: yes
     year: 2017
-    img: 
+    img: DecodingasContinuousOptimizationinNeuralMachineTranslation
     title: Decoding as Continuous Optimization in Neural Machine Translation
     authors: Cong Duy Vu Hoang, Gholamreza Haffari and Trevor Cohn
-    booktitle: arXiv preprint 
-    booktitle-url: 
+    journal: arXiv preprint 
+    journal-url: 
     doc-url: https://arxiv.org/pdf/1701.02854.pdf
     venue: (under review at ACL 2017)
-    abstract: > 
+    abstract: 
         We propose a novel decoding approach for neural machine translation (NMT) based on continuous optimisation. The resulting optimisation problem is then tackled using constrained gradient optimisation. Our powerful decoding framework, enables decoding intractable models such as the intersection of left-to-right and right-to-left (bidirectional) as well as source-to-target and target-to-source (bilingual) NMT models. Our empirical results show that our decoding framework is effective, and leads to substantial improvements in translations generated from the intersected models where the typical greedy or beam search is infeasible.
      
