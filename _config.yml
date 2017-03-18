@@ -30,7 +30,7 @@ papers:
     paper-type: inproceedings
     selected: yes
     year: 2016
-    img: alta2017-nmt-aligns
+    img: naacl17-nmt-aligns
     title: Incorporating Structural Alignment Biases into an Attentional Neural Translation Model
     authors: Trevor Cohn, Cong Duy Vu Hoang, Ekaterina Vylomova, Kaisheng Yao, Chris Dyer and Gholamreza Haffari
     booktitle: Proceedings of NAACL-16 (long)
@@ -43,7 +43,7 @@ papers:
     paper-type: inproceedings
     selected: yes
     year: 2016
-    img: alta2017-rnnlm-side
+    img: naacl17-rnnlm-side
     title: Incorporating Side Information into Recurrent Neural Network Language Models
     authors: Cong Duy Vu Hoang, Reza Haffari and Trevor Cohn
     booktitle: Proceedings of NAACL-16 (short)
@@ -114,6 +114,7 @@ papers:
   - layout: paper
     paper-type: dissertation 
     year: 2010
+    img: masterthesis2010-nus-vu
     title: Towards Automated Related Work Summarization
     institution: National University of Singapore
     doc-url: http://scholarbank.nus.sg/bitstream/handle/10635/20953/HoangCDV.pdf?sequence=1
