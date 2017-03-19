@@ -13,15 +13,26 @@ papers:
     doc-url: https://arxiv.org/pdf/1701.02854.pdf
     code: https://github.com/duyvuleo/Mantidae
     abstract: > 
-      	We propose a novel decoding approach for neural machine 
-	translation (NMT) based on continuous optimisation. 
-	The resulting optimisation problem is then tackled 
-	using constrained gradient optimisation. 
-	Our powerful decoding framework, enables decoding intractable models 
-	such as the intersection of left-to-right and right-to-left (bidirectional) 
-	as well as source-to-target and target-to-source (bilingual) NMT models. 
-	Our empirical results show that our decoding framework is effective, 
-	and leads to substantial improvements in translations generated from the intersected models where the typical greedy or beam search is infeasible.
+      	 Many language technology applications
+      would benefit from the ability to represent
+      negation and its scope on top of widely-used
+      linguistic resources. In this paper, we
+      investigate the possibility of obtaining a
+      first-order logic representation with negation
+      scope marked using Universal Dependencies.
+      To do so, we enhance UDepLambda,
+      a framework that converts dependency
+      graphs to logical forms. The resulting
+      UDepLambda is able to handle
+      phenomena related to scope by means of
+      an higher-order type theory, relevant not
+      only to negation but also to universal quantification
+      and other complex semantic phenomena.
+      The initial conversion we did for
+      English is promising, in that one can represent
+      the scope of negation also in the presence
+      of more complex phenomena such as
+      universal quantifiers.
   - layout: paper
     paper-type: inproceedings
     selected: yes
