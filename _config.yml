@@ -13,7 +13,15 @@ papers:
     doc-url: https://arxiv.org/pdf/1701.02854.pdf
     code: https://github.com/duyvuleo/Mantidae
     abstract: > 
-      We propose a novel decoding approach for neural machine translation (NMT) based on continuous optimisation. The resulting optimisation problem is then tackled using constrained gradient optimisation. Our powerful decoding framework, enables decoding intractable models such as the intersection of left-to-right and right-to-left (bidirectional) as well as source-to-target and target-to-source (bilingual) NMT models. Our empirical results show that our decoding framework is effective, and leads to substantial improvements in translations generated from the intersected models where the typical greedy or beam search is infeasible.
+      	We propose a novel decoding approach for neural machine 
+	translation (NMT) based on continuous optimisation. 
+	The resulting optimisation problem is then tackled 
+	using constrained gradient optimisation. 
+	Our powerful decoding framework, enables decoding intractable models 
+	such as the intersection of left-to-right and right-to-left (bidirectional) 
+	as well as source-to-target and target-to-source (bilingual) NMT models. 
+	Our empirical results show that our decoding framework is effective, 
+	and leads to substantial improvements in translations generated from the intersected models where the typical greedy or beam search is infeasible.
   - layout: paper
     paper-type: inproceedings
     selected: yes
