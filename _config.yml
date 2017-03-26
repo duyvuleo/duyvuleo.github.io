@@ -18,7 +18,7 @@ papers:
     paper-type: inproceedings
     selected: yes
     year: 2016
-    img: alta2016-nmt-factors
+    img: alta2016-nmt-ling-factors
     title: Improving Neural Translation Models with Linguistic Factors
     authors: Cong Duy Vu Hoang, Reza Haffari and Trevor Cohn
     booktitle: Proceedings of ALTA (long)
