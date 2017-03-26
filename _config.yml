@@ -18,7 +18,7 @@ papers:
     paper-type: inproceedings
     selected: yes
     year: 2016
-    img: alta2017-nmt-factors
+    img: alta2016-nmt-factors
     title: Improving Neural Translation Models with Linguistic Factors
     authors: Cong Duy Vu Hoang, Reza Haffari and Trevor Cohn
     booktitle: Proceedings of ALTA (long)
@@ -31,7 +31,7 @@ papers:
     paper-type: inproceedings
     selected: yes
     year: 2016
-    img: naacl17-nmt-aligns
+    img: naacl16-nmt-aligns
     title: Incorporating Structural Alignment Biases into an Attentional Neural Translation Model
     authors: Trevor Cohn, Cong Duy Vu Hoang, Ekaterina Vylomova, Kaisheng Yao, Chris Dyer and Gholamreza Haffari
     booktitle: Proceedings of NAACL-16 (long)
@@ -45,12 +45,13 @@ papers:
     paper-type: inproceedings
     selected: yes
     year: 2016
-    img: naacl17-rnnlm-side
+    img: naacl16-rnnlm-side
     title: Incorporating Side Information into Recurrent Neural Network Language Models
     authors: Cong Duy Vu Hoang, Reza Haffari and Trevor Cohn
     booktitle: Proceedings of NAACL-16 (short)
     booktitle-url: http://naacl.org/naacl-hlt-2016
     doc-url: https://www.aclweb.org/anthology/N/N16/N16-1149.pdf
+    code: https://github.com/duyvuleo/RIE
     venue: conference
     abstract: >
       Recurrent neural network language models (RNNLM) have recently demonstrated vast potential in modelling long-term dependencies for NLP problems, ranging from speech recognition to machine translation. In this work, we propose methods for conditioning RNNLMs on external side information, e.g., metadata such as keywords or document title. Our experiments show consistent improvements of RNNLMs using side information over the baselines for two different datasets and genres in two languages. Interestingly, we found that side information in a foreign language can be highly beneficial in modelling texts in another language, serving as a form of cross-lingual language modelling.
@@ -147,7 +148,7 @@ papers:
     booktitle: Proceedings of IEEE International Conference on Research, Innovation and Vision for the Future (RIVF 2007) (long)
     booktitle-url: 
     doc-url: http://ieeexplore.ieee.org/abstract/document/4223084/
-    data: 
+    data: https://github.com/duyvuleo/VNTC
     venue: conference
     abstract: >
       Text classification concerns the problem of automatically assigning given text passages (or documents) into predefined categories (or topics). Whereas a wide range of methods have been applied to English text classification, relatively few studies have been done on Vietnamese text classification. Based on a Vietnamese news corpus, we present two different approaches for the Vietnamese text classification problem. By using the Bag Of Words - BOW and Statistical N-Gram Language Modeling - N-Gram approaches we were able to evaluate these two widely used classification approaches for our task and showed that these approaches could achieve an average of >95% accuracy with an average 79 minutes classifying time for about 14,000 documents (3 docs/sec). Additionally, we also analyze the advantages and disadvantages of each approach to find out the best method in specific circumstances.
