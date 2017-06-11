@@ -5,7 +5,7 @@ papers:
     paper-type: article
     selected: yes
     year: 2017
-    img: arxiv2017-relopt
+    img: arxiv2017relopt
     title: Decoding as Continuous Optimization in Neural Machine Translation
     authors: Cong Duy Vu Hoang, Gholamreza Haffari and Trevor Cohn
     journal: arXiv preprint (under review at EMNLP 2017)
@@ -18,7 +18,7 @@ papers:
     paper-type: inproceedings
     selected: yes
     year: 2016
-    img: alta2016-nmt-ling-factors
+    img: alta2016nmtlingfactors
     title: Improving Neural Translation Models with Linguistic Factors
     authors: Cong Duy Vu Hoang, Reza Haffari and Trevor Cohn
     booktitle: Proceedings of ALTA (long)
@@ -31,7 +31,7 @@ papers:
     paper-type: inproceedings
     selected: yes
     year: 2016
-    img: naacl16-nmt-aligns
+    img: naacl16nmtaligns
     title: Incorporating Structural Alignment Biases into an Attentional Neural Translation Model
     authors: Trevor Cohn, Cong Duy Vu Hoang, Ekaterina Vylomova, Kaisheng Yao, Chris Dyer and Gholamreza Haffari
     booktitle: Proceedings of NAACL-16 (long)
@@ -45,7 +45,7 @@ papers:
     paper-type: inproceedings
     selected: yes
     year: 2016
-    img: naacl16-rnnlm-side
+    img: naacl16rnnlmside
     title: Incorporating Side Information into Recurrent Neural Network Language Models
     authors: Cong Duy Vu Hoang, Reza Haffari and Trevor Cohn
     booktitle: Proceedings of NAACL-16 (short)
@@ -58,7 +58,7 @@ papers:
   - layout: paper
     paper-type: inproceedings
     year: 2015
-    img: openmt15-i2rsystem
+    img: openmt15i2rsystem
     title: I2R Chinese-English Translation System for OpenMT 2015
     authors: Xuancong Wang, Cong Duy Vu Hoang, Kui Wu, Nina Zhou, Boon Hong Yeo, AiTi Aw, Haizhou Li
     booktitle: Proceedings of the NIST Open Machine Translation Evaluation (OpenMT15)
@@ -71,7 +71,7 @@ papers:
   - layout: paper
     paper-type: inproceedings
     year: 2014
-    img: acl14-smt-rule
+    img: acl14smtrule
     title: A Rule-Augmented Statistical Phrase-based Translation System
     authors: Cong Duy Vu Hoang, AiTi Aw, Hong-Nhung Nguyen-Thi
     booktitle: Proceedings of ACL-14 (System Demonstration Track)
@@ -83,7 +83,7 @@ papers:
   - layout: paper
     paper-type: article
     year: 2013
-    img: jlre13-humancomputing
+    img: jlre13humancomputing
     title: Perspectives on Crowdsourcing Annotations for Natural Language Processing
     authors: Aobo Wang, Cong Duy Vu Hoang, Min-Yen Kan
     journal: Language Resources and Evaluation Journal (JLRE)
@@ -94,7 +94,7 @@ papers:
   - layout: paper
     paper-type: inproceedings
     year: 2012
-    img: eacl12ws-ocr-spell
+    img: eacl12wsocrspell
     title: An Unsupervised and Data-Driven Approach for Spell Checking in Vietnamese OCR-scanned Texts
     authors: Cong Duy Vu Hoang, Ai Ti Aw
     booktitle: Proceedings of the EACL'12 Workshop on Innovative Hybrid Approaches to the Processing of Textual Data (long)
@@ -119,7 +119,7 @@ papers:
   - layout: paper
     paper-type: dissertation 
     year: 2010
-    img: masterthesis2010-nus-vu
+    img: masterthesis2010nusvu
     title: Towards Automated Related Work Summarization
     institution: National University of Singapore
     doc-url: http://scholarbank.nus.sg/bitstream/handle/10635/20953/HoangCDV.pdf?sequence=1
@@ -130,7 +130,7 @@ papers:
   - layout: paper
     paper-type: inproceedings
     year: 2008
-    img: rivf08-smt-depreorder
+    img: rivf08smtdepreorder
     title:  A Dependency-based Word Reordering Approach for Statistical Machine Translation
     authors: Cong Duy Vu Hoang, Mai Ngo, Dien Dinh
     booktitle: Proceedings of IEEE International Conference on Research, Innovation and Vision for the Future (RIVF 2008) (long)
@@ -142,7 +142,7 @@ papers:
   - layout: paper
     paper-type: inproceedings
     year: 2007
-    img: rivf07-vtc
+    img: rivf07vtc
     title:  A Comparative Study on Vietnamese Text Classification Methods
     authors: Cong Duy Vu Hoang, Dien Dinh, Le Nguyen Nguyen, Quoc Hung Ngo
     booktitle: Proceedings of IEEE International Conference on Research, Innovation and Vision for the Future (RIVF 2007) (long)
