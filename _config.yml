@@ -106,7 +106,7 @@ papers:
   - layout: paper
     paper-type: inproceedings
     year: 2010
-    img: coling10-relatedwork-sum
+    img: coling10relatedworksum
     title: Towards Automated Related Work Summarization
     authors: Cong Duy Vu Hoang, Min-Yen Kan
     booktitle: Proceedings of the 23rd International Conference on Computational Linguistics (COLING) (long)
