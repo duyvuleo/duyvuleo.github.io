@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Vu (Cong Duy) Hoang
+title: Vu (Cong Duy) Hoang 's Homepage
 picture: vu
 ---
 <div class="page-header">
@@ -21,11 +21,14 @@ picture: vu
     <div class="col-sm-4">
       <a href="mailto:vhoang2@student.unimelb.edu.au"><span class="glyphicon glyphicon-envelope"></span></a> Email<br/>
       <a href="https://scholar.google.com.au/citations?user=UFN7fXQAAAAJ&hl=en">
-        <img src="img/ico/gs.png" alt=""/>
+        <img src="img/ico/gscholar_icon.png" alt=""/>
       </a> Google Scholar<br/>
       <a href="http://github.com/duyvuleo">
         <img src="img/ico/github_icon.png" alt=""/>
-      </a> Github
+      </a> Github <br/>
+      <a href="https://www.linkedin.com/in/cdvhoang/">
+        <img src="img/ico/linkedin_icon.png" alt=""/>
+      </a> LinkedIn
     </div>
   </div>
 </div>
@@ -40,11 +43,16 @@ Before that, I was a student/teaching & research assistant/lecturer at <a href="
 My primary research interests lie on Natural Language Processing and Applied Machine Learning. 
   My current focus is on Deep Learning models (e.g., sequence to sequence learning/inference) applied to structured prediction problems such as: Statistical Machine Translation, Abstractive Summarisation, Parsing. 
 </p>
-<p>
-<font color="red">New</font>: <a href="https://github.com/duyvuleo/Mantidae">Mantidae</a> is my *humble* neural machine translation toolkit (written in C++ with <a href="https://github.com/clab/dynet">dynet</a> backend). Thanks to dynet's efficiency, Mantidae works quite fast and its performance is competitive to <a href="https://github.com/neubig/lamtram">Lamtram</a> or <a href="https://github.com/rsennrich/nematus">Nematus</a>.
-</p>
 
 <h4>Recent Highlights</h4>
+<p>
+*** I will be participating in the 2017 Jelinek Summer Workshop on Speech and Language Technology (JSALT) at CMU, June-August 2017, Pittsburgh, PA, USA. My main research focus will be on <a href="https://duyvuleo.github.io/ws17mt/">Neural Machine Translation conditioned on low/zero resources</a>. 
+</p>
+
+<p>
+*** <a href="https://github.com/duyvuleo/Mantidae">Mantidae</a> is my *humble* neural machine translation toolkit (written in C++ with <a href="https://github.com/clab/dynet">dynet</a> backend). Thanks to dynet's efficiency, Mantidae works quite fast and its performance is competitive to <a href="https://github.com/neubig/lamtram">Lamtram</a> or <a href="https://github.com/rsennrich/nematus">Nematus</a>. 
+</p>
+
 {% for post in site.papers %}
   {% if post.selected %}
     {% include paper.html paper=post %}
