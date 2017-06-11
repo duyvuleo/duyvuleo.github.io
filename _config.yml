@@ -14,6 +14,7 @@ papers:
     code: https://github.com/duyvuleo/Mantidae
     abstract: > 
       We propose a novel decoding approach for neural machine translation (NMT) based on continuous optimisation. The resulting optimisation problem is then tackled using constrained gradient optimisation. Our powerful decoding framework, enables decoding intractable models such as the intersection of left-to-right and right-to-left (bidirectional) as well as source-to-target and target-to-source (bilingual) NMT models. Our empirical results show that our decoding framework is effective, and leads to substantial improvements in translations generated from the intersected models where the typical greedy or beam search is infeasible.
+
   - layout: paper
     paper-type: inproceedings
     selected: yes
@@ -27,6 +28,7 @@ papers:
     venue: conference
     abstract: >
       This paper presents an extension of neural machine translation (NMT) model to incorporate additional word-level linguistic factors. Adding such linguistic factors may be of great benefits to learning of NMT models, potentially reducing language ambiguity or alleviating data sparseness problem (Koehn and Hoang, 2007). We explore different linguistic annotations at the word level, including: lemmatization, word clusters, Part-of-Speech tags, and labeled dependency relations. We then propose different neural attention architectures to integrate these additional factors into the NMT framework. Evaluating on translating between English and German in two directions with a low resource setting in the domain of TED talks, we obtain promising results in terms of both perplexity reductions and improved BLEU scores over baseline methods.
+
   - layout: paper
     paper-type: inproceedings
     selected: yes
@@ -41,6 +43,7 @@ papers:
     venue: conference
     abstract: >
       Neural encoder-decoder models of machine translation have achieved impressive results, rivalling traditional translation models. However their modelling formulation is overly simplistic, and omits several key inductive biases built into traditional models. In this paper we extend the attentional neural translation model to include structural biases from word based alignment models, including positional bias, Markov conditioning, fertility and agreement over translation directions. We show improvements over a baseline attentional model and standard phrase-based model over several language pairs, evaluating on difficult languages in a low resource setting.
+
   - layout: paper
     paper-type: inproceedings
     selected: yes
@@ -55,6 +58,7 @@ papers:
     venue: conference
     abstract: >
       Recurrent neural network language models (RNNLM) have recently demonstrated vast potential in modelling long-term dependencies for NLP problems, ranging from speech recognition to machine translation. In this work, we propose methods for conditioning RNNLMs on external side information, e.g., metadata such as keywords or document title. Our experiments show consistent improvements of RNNLMs using side information over the baselines for two different datasets and genres in two languages. Interestingly, we found that side information in a foreign language can be highly beneficial in modelling texts in another language, serving as a form of cross-lingual language modelling.
+
   - layout: paper
     paper-type: inproceedings
     year: 2015
@@ -68,6 +72,7 @@ papers:
     venue: workshop
     abstract: >
       In this paper, we describe our system and approach used for the NIST Open Machine Translation 2015 (OpenMT15) evaluation campaign in the Chinese-to-English SMS/Chat and CTS category. A multi-pass approach was exploited to generate and select the best translation. First, we train multiple systems using the Moses phrase-based decoder and the Moses hierarchical-phrase-based decoder. Each system uses different features and pre/post-processing to ensure translation knowledge diversity. Next, for each of the system, we perform N-best rescoring by adding additional features to obtain 1-best translation. Finally, we combine the 1-best translation from each of these systems to select the best translation by re-scoring and re-ranking them with additional feature functions. In particular, this paper reports our effort in data processing, system training and system combination, as well as our performance on OpenMT15 Chinese-English task.
+
   - layout: paper
     paper-type: inproceedings
     year: 2014
@@ -80,6 +85,7 @@ papers:
     venue: conference
     abstract: >
       Interactive or Incremental Statistical Machine Translation (IMT) aims to provide a mechanism that allows the statistical models involved in the translation process to be incrementally updated and improved. The source of knowledge normally comes from users who either post-edit the entire translation or just provide the translations for wrongly translated domain-specific terminologies. Most of the existing work on IMT uses batch learning paradigm which does not allow translation systems to make use of the new input instantaneously. We introduce an adaptive MT framework with a Rule Definition Language (RDL) for users to amend MT results through translation rules or patterns. Experimental results show that our system acknowledges user feedback via RDL which improves the translations of the baseline system on three test sets for Vietnamese to English translation.
+
   - layout: paper
     paper-type: article
     year: 2013
@@ -91,6 +97,7 @@ papers:
     doc-url: http://dl.acm.org/citation.cfm?id=2447293
     abstract: > 
       Crowdsourcing has emerged as a new method for obtaining annotations for training models for machine learning. While many variants of this process exist, they largely differ in their methods of motivating subjects to contribute and the scale of their applications. To date, there has yet to be a study that helps the practitioner to decide what form an annotation application should take to best reach its objectives within the constraints of a project. To fill this gap, we provide a faceted analysis of crowdsourcing from a practitioner’s perspective, and show how our facets apply to existing published crowdsourced annotation applications. We then summarize how the major crowdsourcing genres fill different parts of this multi-dimensional space, which leads to our recommendations on the potential opportunities crowdsourcing offers to future annotation efforts.
+
   - layout: paper
     paper-type: inproceedings
     year: 2012
@@ -103,6 +110,7 @@ papers:
     venue: workshop
     abstract: >
       OCR (Optical Character Recognition) scanners do not always produce 100% accuracy in recognizing text documents, leading to spelling errors that make the texts hard to process further. This paper presents an investigation for the task of spell checking for OCR-scanned text documents. First, we conduct a detailed analysis on characteristics of spelling errors given by an OCR scanner. Then, we propose a fully automatic approach combining both error detection and correction phases within a unique scheme. The scheme is designed in an unsupervised & data-driven manner, suitable for resource-poor languages. Based on the evaluation on real dataset in Vietnamese language, our approach gives an acceptable performance (detection accuracy 86%, correction accuracy 71%). In addition, we also give a result analysis to show how accurate our approach can achieve.
+
   - layout: paper
     paper-type: inproceedings
     year: 2010
@@ -116,6 +124,7 @@ papers:
     venue: conference
     abstract: >
       We introduce the novel problem of automatic related work summarization. Given multiple articles (e.g., conference/journal papers) as input, a related work summarization system creates a topic-biased summary of related work specific to the target paper. Our prototype Related Work Summarization system, ReWoS, takes in set of keywords arranged in a hierarchical fashion that describes a target paper's topics, to drive the creation of an extractive summary using two different strategies for locating appropriate sentences for general topics as well as detailed ones. Our initial results show an improvement over generic multi-document summarization baselines in a human evaluation.
+
   - layout: paper
     paper-type: dissertation 
     year: 2010
@@ -127,6 +136,7 @@ papers:
     latex: 
     abstract: >
       This thesis introduces and describes the novel problem of automated related work summarization. Given multiple articles (e.g., conference or journal papers) as input, and a set of keywords that describes a target paper’s topics of interest in a hierar- chical fashion, a related work summarization system creates a topic-biased summary of related work specific to the target paper. This thesis has two main contributions. First, I conducted a deep manual analysis on various aspects of related work sections to identify their important characteristics in locating appropriate information for summarization and generation processes. Second, based on the observations from my manual analysis, I have developed my initial prototype Related Work Summarization system, namely Re- WoS, which creates its extractive summaries using two different strategies for locating appropriate sentences for general topics as well as detailed ones. The proposed ReWoS system significantly outperforms baseline systems in terms of human evaluation measures designed specific to the task.
+
   - layout: paper
     paper-type: inproceedings
     year: 2008
@@ -139,6 +149,7 @@ papers:
     venue: conference
     abstract: >
       Reordering is of crucial importance for machine translation. Solving the reordering problem can lead to remarkable improvements in translation performance. In this paper, we propose a novel approach to solve the word reordering problem in Statistical Machine Translation. We rely on the dependency relations retrieved from a statistical parser incorporating with linguistic hand-crafted rules to create the transformations. These dependency-based transformations can produce the problem of word movement on both phrase and word reordering which is a difficult problem on parse tree based approaches. Such transformations are then applied as a preprocessor to English language both in training and decoding process to obtain an underlying word order closer to the Vietnamese language. About the hand-crafted rules, we extract from the syntactic differences of word order between English and Vietnamese language. This approach is simple and easy to implement with a small rule set, not lead to the rule explosion. We describe the experiments using our model on VCLEVC corpus [18] and consider the translation from English to Vietnamese, showing significant improvements about 2–4% BLEU score in comparison with the MOSES phrase-based baseline system [19].
+
   - layout: paper
     paper-type: inproceedings
     year: 2007
@@ -152,3 +163,4 @@ papers:
     venue: conference
     abstract: >
       Text classification concerns the problem of automatically assigning given text passages (or documents) into predefined categories (or topics). Whereas a wide range of methods have been applied to English text classification, relatively few studies have been done on Vietnamese text classification. Based on a Vietnamese news corpus, we present two different approaches for the Vietnamese text classification problem. By using the Bag Of Words - BOW and Statistical N-Gram Language Modeling - N-Gram approaches we were able to evaluate these two widely used classification approaches for our task and showed that these approaches could achieve an average of >95% accuracy with an average 79 minutes classifying time for about 14,000 documents (3 docs/sec). Additionally, we also analyze the advantages and disadvantages of each approach to find out the best method in specific circumstances.
+      
