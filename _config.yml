@@ -28,7 +28,7 @@ papers:
     year: 2016
     img: alta2016nmtlingfactors
     title: Improving Neural Translation Models with Linguistic Factors
-    authors: Cong Duy Vu Hoang, Reza Haffari and Trevor Cohn
+    authors: Cong Duy Vu Hoang, Gholamreza Haffari and Trevor Cohn
     booktitle: Proceedings of The 14th Annual Workshop of The Australasian Language Technology Association (ALTA'16) (long)
     booktitle-url: http://alta2016.alta.asn.au
     doc-url: http://aclweb.org/anthology/U16-1001
@@ -51,7 +51,7 @@ papers:
     img: naacl16nmtaligns
     title: Incorporating Structural Alignment Biases into an Attentional Neural Translation Model
     authors: Trevor Cohn, Cong Duy Vu Hoang, Ekaterina Vylomova, Kaisheng Yao, Chris Dyer and Gholamreza Haffari
-    booktitle: Proceedings of The 15th Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT'16) (long)
+    booktitle: Proceedings of The 15th Annual Conference of the North American Chapter of the Association for Computational Linguistics - Human Language Technologies (NAACL-HLT'16) (long)
     booktitle-url: http://naacl.org/naacl-hlt-2016
     doc-url: http://www.aclweb.org/anthology/N16-1102
     code: https://github.com/duyvuleo/mantis
@@ -72,8 +72,8 @@ papers:
     year: 2016
     img: naacl16rnnlmside
     title: Incorporating Side Information into Recurrent Neural Network Language Models
-    authors: Cong Duy Vu Hoang, Reza Haffari and Trevor Cohn
-    booktitle: Proceedings of The 15th Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT'16) (short)
+    authors: Cong Duy Vu Hoang, Gholamreza Haffari and Trevor Cohn
+    booktitle: Proceedings of The 15th Annual Conference of the North American Chapter of the Association for Computational Linguistics - Human Language Technologies (NAACL-HLT'16) (short)
     booktitle-url: http://naacl.org/naacl-hlt-2016
     doc-url: https://www.aclweb.org/anthology/N/N16/N16-1149.pdf
     code: https://github.com/duyvuleo/RIE
