@@ -8,7 +8,7 @@ papers:
     img: arxiv2017relopt
     title: Decoding as Continuous Optimization in Neural Machine Translation
     authors: Cong Duy Vu Hoang, Gholamreza Haffari and Trevor Cohn
-    journal: arXiv preprint (under review at EMNLP 2017)
+    journal: ArXiv preprint (accepted to appear at Conference on Empirical Methods in Natural Language Processing - EMNLP 2017)
     journal-url: https://arxiv.org/abs/1701.02854
     doc-url: https://arxiv.org/pdf/1701.02854.pdf
     code: https://github.com/duyvuleo/Mantidae
@@ -29,7 +29,7 @@ papers:
     img: alta2016nmtlingfactors
     title: Improving Neural Translation Models with Linguistic Factors
     authors: Cong Duy Vu Hoang, Reza Haffari and Trevor Cohn
-    booktitle: Proceedings of ALTA (long)
+    booktitle: Proceedings of The 14th Annual Workshop of The Australasian Language Technology Association (ALTA'16) (long)
     booktitle-url: http://alta2016.alta.asn.au
     doc-url: http://aclweb.org/anthology/U16-1001
     venue: conference
@@ -51,7 +51,7 @@ papers:
     img: naacl16nmtaligns
     title: Incorporating Structural Alignment Biases into an Attentional Neural Translation Model
     authors: Trevor Cohn, Cong Duy Vu Hoang, Ekaterina Vylomova, Kaisheng Yao, Chris Dyer and Gholamreza Haffari
-    booktitle: Proceedings of NAACL-16 (long)
+    booktitle: Proceedings of The 15th Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT'16) (long)
     booktitle-url: http://naacl.org/naacl-hlt-2016
     doc-url: http://www.aclweb.org/anthology/N16-1102
     code: https://github.com/duyvuleo/mantis
@@ -73,7 +73,7 @@ papers:
     img: naacl16rnnlmside
     title: Incorporating Side Information into Recurrent Neural Network Language Models
     authors: Cong Duy Vu Hoang, Reza Haffari and Trevor Cohn
-    booktitle: Proceedings of NAACL-16 (short)
+    booktitle: Proceedings of The 15th Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT'16) (short)
     booktitle-url: http://naacl.org/naacl-hlt-2016
     doc-url: https://www.aclweb.org/anthology/N/N16/N16-1149.pdf
     code: https://github.com/duyvuleo/RIE
@@ -114,7 +114,7 @@ papers:
     img: acl14smtrule
     title: A Rule-Augmented Statistical Phrase-based Translation System
     authors: Cong Duy Vu Hoang, AiTi Aw, Hong-Nhung Nguyen-Thi
-    booktitle: Proceedings of ACL-14 (System Demonstration Track)
+    booktitle: Proceedings of Annual Meeting of the Association for Computational Linguistics (ACL-14) (System Demonstration Track)
     booktitle-url: acl2014.org/
     doc-url: http://acl2014.org/acl2014/P14-5/pdf/P14-5013.pdf
     venue: conference
