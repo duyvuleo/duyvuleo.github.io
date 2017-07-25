@@ -6,7 +6,7 @@ papers:
     selected: yes
     year: 2017
     img: arxiv2017relopt
-    title: Decoding as Continuous Optimization in Neural Machine Translation
+    title: Towards Decoding as Continuous Optimization in Neural Machine Translation
     authors: Cong Duy Vu Hoang, Gholamreza Haffari and Trevor Cohn
     journal: ArXiv preprint (accepted to appear at Conference on Empirical Methods in Natural Language Processing - EMNLP 2017) (long)
     journal-url: https://arxiv.org/abs/1701.02854
