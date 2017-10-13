@@ -2,15 +2,15 @@ exclude: ['README.md']
 timezone: AU
 papers:
   - layout: paper
-    paper-type: article
+    paper-type: inproceedings
     selected: yes
     year: 2017
-    img: arxiv2017relopt
+    img: emnlp2017relopt
     title: Towards Decoding as Continuous Optimization in Neural Machine Translation
     authors: Cong Duy Vu Hoang, Gholamreza Haffari and Trevor Cohn
     booktitle:  Proceedings of Conference on Empirical Methods in Natural Language Processing (EMNLP'17) (long, oral)
     booktitle-url: http://www.aclweb.org/anthology/D/D17/D17-1014.pdf
-    doc-url: 
+    doc-url: http://emnlp2017.net/accepted-papers.html
     code: https://github.com/duyvuleo/Mantidae
     abstract: > 
       We propose a novel decoding approach for neural machine translation (NMT) based on continuous optimisation. 
