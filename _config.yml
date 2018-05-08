@@ -4,12 +4,27 @@ papers:
   - layout: paper
     paper-type: inproceedings
     selected: yes
+    year: 2018
+    img: wnmt2018ibtnmt
+    title: Iterative Back-Translation for Neural Machine Translation
+    authors: Cong Duy Vu Hoang, Philipp Koehn, Gholamreza Haffari and Trevor Cohn
+    booktitle:  Proceedings of The 2nd Workshop on Neural Machine Translation and Generation, ACL 2018 (long)
+    booktitle-url: 
+    doc-url: 
+    code: 
+    abstract: > 
+      We present iterative back-translation, a method for generating increasingly better synthetic parallel data from monolingual
+      data to train neural machine translation systems. We demonstrate improvements in neural machine translation quality in
+      both high and low resourced scenarios, including the best reported BLEU scores for the WMT 2017 German$English tasks.
+  - layout: paper
+    paper-type: inproceedings
+    selected: yes
     year: 2017
     img: emnlp2017relopt
     title: Towards Decoding as Continuous Optimization in Neural Machine Translation
     authors: Cong Duy Vu Hoang, Gholamreza Haffari and Trevor Cohn
     booktitle:  Proceedings of Conference on Empirical Methods in Natural Language Processing (EMNLP'17) (long, oral)
-    booktitle-url: http://emnlp2017.net/accepted-papers.html
+    booktitle-url: 
     doc-url: http://www.aclweb.org/anthology/D/D17/D17-1014.pdf
     code: https://github.com/duyvuleo/Mantidae
     abstract: > 
