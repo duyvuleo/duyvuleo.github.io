@@ -8,9 +8,9 @@ papers:
     img: wnmt2018ibtnmt
     title: Iterative Back-Translation for Neural Machine Translation
     authors: Cong Duy Vu Hoang, Philipp Koehn, Gholamreza Haffari and Trevor Cohn
-    booktitle:  Proceedings of The 2nd Workshop on Neural Machine Translation and Generation, ACL 2018 (long)
+    booktitle:  Proceedings of The 2nd Workshop on Neural Machine Translation and Generation associated with ACL 2018 (long, poster)
     booktitle-url: 
-    doc-url: 
+    doc-url: http://aclweb.org/anthology/W18-2703 
     code: 
     abstract: > 
       We present iterative back-translation, a method for generating increasingly better synthetic parallel data from monolingual
