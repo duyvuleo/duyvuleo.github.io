@@ -5,6 +5,22 @@ papers:
     paper-type: inproceedings
     selected: yes
     year: 2018
+    img: alta2018sidenmt
+    title: Improved Neural Machine Translation using Side Information
+    authors: Cong Duy Vu Hoang, Gholamreza Haffari and Trevor Cohn
+    booktitle:  Proceedings of The 16th Annual Workshop of The Australasian Language Technology Association (ALTA'18) (long, oral)
+    booktitle-url: 
+    doc-url:  
+    code: https://github.com/duyvuleo/Transformer-DyNet/tree/master/src/research
+    abstract: > 
+      In this work, we investigate whether side information is helpful in the context of neural machine translation (NMT). 
+      We study various kinds of side information, including topical information and personal traits, and then propose different ways of incorporating 
+      these information sources into existing NMT models. 
+      Our experimental results show the benefits of side in- formation in improving the NMT models.
+  - layout: paper
+    paper-type: inproceedings
+    selected: yes
+    year: 2018
     img: wnmt2018ibtnmt
     title: Iterative Back-Translation for Neural Machine Translation
     authors: Cong Duy Vu Hoang, Philipp Koehn, Gholamreza Haffari and Trevor Cohn
