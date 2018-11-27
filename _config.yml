@@ -8,7 +8,7 @@ papers:
     img: alta2018sidenmt
     title: Improved Neural Machine Translation using Side Information
     authors: Cong Duy Vu Hoang, Gholamreza Haffari and Trevor Cohn
-    booktitle:  Proceedings of The 16th Annual Workshop of The Australasian Language Technology Association (ALTA'18) (long, oral)
+    booktitle:  Proceedings of The 16th Annual Workshop of The Australasian Language Technology Association (ALTA'18) (long, oral) (best paper award)
     booktitle-url: 
     doc-url:  
     code: https://github.com/duyvuleo/Transformer-DyNet/tree/master/src/research
@@ -59,7 +59,7 @@ papers:
     img: alta2016nmtlingfactors
     title: Improving Neural Translation Models with Linguistic Factors
     authors: Cong Duy Vu Hoang, Gholamreza Haffari and Trevor Cohn
-    booktitle: Proceedings of The 14th Annual Workshop of The Australasian Language Technology Association (ALTA'16) (long)
+    booktitle: Proceedings of The 14th Annual Workshop of The Australasian Language Technology Association (ALTA'16) (long, oral) (best paper award)
     booktitle-url: http://alta2016.alta.asn.au
     doc-url: http://aclweb.org/anthology/U16-1001
     venue: conference
