@@ -10,7 +10,7 @@ papers:
     authors: Cong Duy Vu Hoang, Ioan Calapodescu, Marc Dymetman
     journal: arXiv preprint
     journal-url: https://arxiv.org/abs/1812.09836
-    doc-url: 
+    doc-url: https://arxiv.org/abs/1812.09836
     abstract: > 
       In previous works, neural sequence models have been shown to improve significantly if external prior knowledge can be provided, 
       for instance by allowing the model to access the embeddings of explicit features during both training and inference. 
