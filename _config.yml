@@ -47,7 +47,7 @@ papers:
     authors: Cong Duy Vu Hoang, Gholamreza Haffari and Trevor Cohn
     booktitle:  Proceedings of The 16th Annual Workshop of The Australasian Language Technology Association (ALTA'18) (long, oral) (best paper award)
     booktitle-url: 
-    doc-url:  
+    doc-url:  https://www.aclweb.org/anthology/U18-1001
     code: https://github.com/duyvuleo/Transformer-DyNet/tree/master/src/research
     abstract: > 
       In this work, we investigate whether side information is helpful in the context of neural machine translation (NMT). 
