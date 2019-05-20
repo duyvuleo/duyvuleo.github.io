@@ -7,8 +7,7 @@ papers:
     year: 2019
     img: acl2019demo
     title: An Adaptable Task-oriented Dialog System for Stand-alone Embedded Devices
-    authors: Long Duong, Vu Cong Duy Hoang, Tuyen Quang Pham, Yu-Heng Hong, Vladislavs Dovgalecs, Guy Bashkansky, Jason Black,
-Andrew Bleeker, Serge Le Huitouze, Mark Johnson
+    authors: Long Duong, Vu Cong Duy Hoang, Tuyen Quang Pham, Yu-Heng Hong, Vladislavs Dovgalecs, Guy Bashkansky, Jason Black, Andrew Bleeker, Serge Le Huitouze, Mark Johnson
     booktitle: Proceedings of Annual Meeting of the Association for Computational Linguistics (ACL-19) (System Demonstrations)
     booktitle-url: 
     doc-url:  
