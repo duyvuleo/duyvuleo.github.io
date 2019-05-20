@@ -11,7 +11,7 @@ papers:
     booktitle: Proceedings of Annual Meeting of the Association for Computational Linguistics (ACL-19) (System Demonstrations)
     booktitle-url: 
     doc-url:  
-    video: youtu.be/N3IBMGocvHU
+    video: https://youtu.be/N3IBMGocvHU
     abstract: > 
       This paper describes a spoken-language end-to-end task-oriented dialogue system for small embedded devices such as home appliances. 
       While the current system implements a smart alarm clock with advanced calendar scheduling functionality, the system is designed to make it easy to port to other application domains (e.g., the dialogue component factors out domain-specific execution from domain-general actions such as requesting and updating slot values). 
