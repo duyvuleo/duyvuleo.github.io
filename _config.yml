@@ -2,10 +2,11 @@ exclude: ['README.md']
 timezone: AU
 papers:
   - layout: paper
-    paper-type: dissertation 
+    paper-type: dissertation
+    selected: yes 
     year: 2019
     img: phdthesis2019unimelbvu
-    title: 
+    title: On the Use of Prior and External Knowledge in Neural Sequence Models
     institution: The University of Melbourne, VIC, Australia
     doc-url: http://hdl.handle.net/11343/225845
     slides: 
