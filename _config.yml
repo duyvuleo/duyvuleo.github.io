@@ -2,7 +2,7 @@ exclude: ['README.md']
 timezone: AU
 papers:
   - layout: paper
-    paper-type: dissertation
+    paper-type: phddissertation
     selected: yes 
     year: 2019
     img: phdthesis2019unimelbvu
@@ -270,7 +270,7 @@ papers:
       extractive summary using two different strategies for locating appropriate sentences for 
       general topics as well as detailed ones. Our initial results show an improvement over generic multi-document summarization baselines in a human evaluation.
   - layout: paper
-    paper-type: dissertation 
+    paper-type: masterdissertation 
     year: 2010
     img: masterthesis2010nusvu
     title: Towards Automated Related Work Summarization
