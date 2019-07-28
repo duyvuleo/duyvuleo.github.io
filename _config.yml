@@ -2,6 +2,20 @@ exclude: ['README.md']
 timezone: AU
 papers:
   - layout: paper
+    paper-type: dissertation 
+    year: 2019
+    img: phdthesis2019unimelbvu
+    title: 
+    institution: The University of Melbourne, VIC, Australia
+    doc-url: http://hdl.handle.net/11343/225845
+    slides: 
+    latex: 
+    abstract: >
+      Neural sequence models have recently achieved great success across various natural language processing tasks. In practice, neural sequence models require massive amount of annotated training data to reach their desirable performance; however, there will not always be available data across languages, domains or tasks at hand. Prior and external knowledge provides additional contextual information, potentially improving the modelling performance as well as compensating the lack of large training data, particular in low-resourced situations. In this thesis, we investigate the usefulness of utilising prior and external knowledge for improving neural sequence models. We propose the use of various kinds of prior and external knowledge and present different approaches for integrating them into both training and inference phases of neural sequence models. The followings are main contributions of this thesis which are summarised in two major parts:
+We present the first part of this thesis which is on Training and Modelling for neural sequence models. In this part, we investigate different situations (particularly in low resource settings) in which prior and external knowledge, such as side information, linguistic factors, monolingual data, is shown to have great benefits for improving performance of neural sequence models. In addition, we introduce a new means for incorporating prior and external knowledge based on the moment matching framework. This framework serves its purpose for exploiting prior and external knowledge as global features of generated sequences in neural sequence models in order to improve the overall quality of the desired output sequence.
+The second part is about Decoding of neural sequence models in which we propose a novel decoding framework with relaxed continuous optimisation in order to address one of the drawbacks of existing approximate decoding methods, namely the limited ability to incorporate global factors due to intractable search.
+We hope that this PhD thesis, constituted by two above major parts, will shed light on the use of prior and external knowledge in neural sequence models, both in their training and decoding phases.
+  - layout: paper
     paper-type: inproceedings
     selected: yes
     year: 2019
