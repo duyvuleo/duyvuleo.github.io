@@ -25,7 +25,7 @@ papers:
     authors: Long Duong, Vu Cong Duy Hoang, Tuyen Quang Pham, Yu-Heng Hong, Vladislavs Dovgalecs, Guy Bashkansky, Jason Black, Andrew Bleeker, Serge Le Huitouze, Mark Johnson
     booktitle: Proceedings of Annual Meeting of the Association for Computational Linguistics (ACL-19) (System Demonstrations)
     booktitle-url: 
-    doc-url:  
+    doc-url:  https://www.aclweb.org/anthology/papers/P/P19/P19-3009/
     video: https://youtu.be/N3IBMGocvHU
     abstract: > 
       This paper describes a spoken-language end-to-end task-oriented dialogue system for small embedded devices such as home appliances. 
