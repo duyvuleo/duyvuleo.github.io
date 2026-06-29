@@ -2,6 +2,75 @@ exclude: ['README.md']
 timezone: AU
 papers:
   - layout: paper
+    paper-type: inproceedings
+    selected: yes
+    year: 2026
+    img: clarity2026nl2sql
+    title: "CLARITY: A Framework and Benchmark for Conversational Language Ambiguity and Unanswerability in Interactive NL2SQL Systems"
+    authors: Tabinda Sarwar, Farhad Moghimifar, Cong Duy Vu Hoang, Xiaoxiao Ma, Shawn Chang Xu, Fahimeh Saleh, Poorya Zaremoodi, Avirup Sil, Katrin Kirchhoff
+    booktitle: Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026) (Industry Track)
+    booktitle-url: https://aclanthology.org/2026.acl-industry.86/
+    doc-url: https://aclanthology.org/2026.acl-industry.86/
+    venue: conference
+    abstract: >
+      We introduce CLARITY, a framework and benchmark for evaluating conversational language ambiguity and
+      unanswerability in interactive NL2SQL systems. Real-world NL2SQL deployments must handle ambiguous,
+      underspecified, or unanswerable user requests in a multi-turn dialogue setting. CLARITY provides
+      a systematic taxonomy of ambiguity types and unanswerability conditions, along with a benchmark
+      dataset for evaluating how well NL2SQL systems identify, clarify, and resolve such inputs.
+
+  - layout: paper
+    paper-type: inproceedings
+    selected: yes
+    year: 2025
+    img: distillc2025nl2sql
+    title: "Distill-C: Enhanced NL2SQL via Distilled Customization with LLMs"
+    authors: Cong Duy Vu Hoang, Gioacchino Tangari, Clemence Lanfranchi, Dalu Guo, Paul Cayet, Steve Siu, Don Dharmasiri, Yuan-Fang Li, Long Duong, Damien Hilloulin, Rhicheek Patra, Sungpack Hong, Hassan Chafi
+    booktitle: Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL 2025) (Industry Track)
+    booktitle-url: https://aclanthology.org/2025.naacl-industry
+    doc-url: https://aclanthology.org/2025.naacl-industry
+    venue: conference
+    abstract: >
+      We present Distill-C, a framework for enhancing NL2SQL systems via distilled customization with
+      large language models. By combining knowledge distillation with domain-specific customization,
+      Distill-C achieves strong NL2SQL performance while remaining practical for enterprise deployment
+      across Oracle SQL and PL/SQL environments.
+
+  - layout: paper
+    paper-type: inproceedings
+    selected: yes
+    year: 2025
+    img: codellms2025synthesis
+    title: "Mastering the Craft of Data Synthesis for CodeLLMs"
+    authors: Meng Chen, Philip Arthur, Qianyu Feng, Cong Duy Vu Hoang, Yu-Heng Hong, Mahdi Kazemi Moghaddam, Omid Nezami, Duc Thien Nguyen, Gioacchino Tangari, Duy Vu, Thanh Vu, Mark Johnson, Krishnaram Kenthapadi, Don Dharmasiri, Long Duong, Yuan-Fang Li
+    booktitle: Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL 2025) (Long Paper)
+    booktitle-url: https://aclanthology.org/2025.naacl-long
+    doc-url: https://aclanthology.org/2025.naacl-long
+    venue: conference
+    abstract: >
+      We present a systematic study on data synthesis for training Code LLMs.
+      We identify key principles for crafting high-quality synthetic training data and demonstrate
+      their effectiveness across code generation benchmarks. Our findings provide practical guidance
+      for building production-grade Code LLMs with limited human-annotated data.
+
+  - layout: paper
+    paper-type: inproceedings
+    selected: no
+    year: 2025
+    img: sqlong2025nl2sql
+    title: "SQLong: Enhanced NL2SQL for Longer Contexts with LLMs"
+    authors: Quoc Dai Nguyen, Cong Duy Vu Hoang, Duy Quang Vu, Gioacchino Tangari, Thanh Vu, Don Dharmasiri, Yuan-Fang Li, Long Duong
+    booktitle: Proceedings of the 4th Table Representation Learning Workshop at ACL 2025
+    booktitle-url: https://aclanthology.org/2025.acl-workshops
+    doc-url: https://aclanthology.org/2025.acl-workshops
+    venue: workshop
+    abstract: >
+      We present SQLong, a framework for enhancing NL2SQL performance on long-context inputs using
+      large language models. As enterprise schemas grow in complexity, handling long table descriptions
+      and multi-table joins becomes critical. SQLong introduces targeted techniques for long-context
+      fine-tuning and retrieval to improve accuracy on complex, real-world SQL generation tasks.
+
+  - layout: paper
     paper-type: phddissertation
     selected: yes 
     year: 2019
