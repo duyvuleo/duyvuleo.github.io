@@ -1,0 +1,43 @@
+---
+layout: default
+title: Cong Duy Vu Hoang | Publications & Patents
+picture: papers
+---
+
+<div class="page-header">
+  <h3>Publications &amp; Patents</h3>
+  <blockquote><i>The science of today is the technology of tomorrow.<br/>&mdash;Edward Teller</i></blockquote>
+</div>
+
+<h4>Peer-Reviewed Publications</h4>
+<p>
+  <a href="https://scholar.google.com.au/citations?user=UFN7fXQAAAAJ&amp;hl=en">Google Scholar</a>:
+  <strong>1,350+ citations</strong> &bull; h-index <strong>13</strong> &bull; i10-index <strong>17</strong>
+</p>
+
+{% for post in site.papers %}
+  {% include paper.html paper=post %}
+{% endfor %}
+
+<hr/>
+
+<h4>Patents</h4>
+<p>
+  Full portfolio: <strong>34 granted U.S. patents</strong> &amp; more than <strong>42 pending</strong>
+  — spanning NL2SQL, NL2Code, LLM training, NER, and dialog systems.<br/>
+  <small class="text-muted">Selected representative patents listed below (top-5 inventor). <strong>Bold name</strong> = CDV Hoang.</small>
+</p>
+
+<h5>Granted Patents</h5>
+{% for patent in site.patents %}
+  {% if patent.status == "granted" %}
+    {% include patent.html patent=patent %}
+  {% endif %}
+{% endfor %}
+
+<h5 style="margin-top: 18px;">Patent Applications &amp; Pre-Grant Publications</h5>
+{% for patent in site.patents %}
+  {% if patent.status != "granted" %}
+    {% include patent.html patent=patent %}
+  {% endif %}
+{% endfor %}

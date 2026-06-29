@@ -1,5 +1,84 @@
 exclude: ['README.md']
 timezone: AU
+patents:
+  - title: "Large language models for NL2SQL with long context finetuning"
+    number: "US Patent App. 19/035,561"
+    year: 2026
+    status: application
+    authors: "<strong>CDV Hoang</strong> et al."
+    area: "NL2SQL"
+  - title: "Detecting out-of-domain, out-of-scope, and confusion-span (OOCS) input for NL2Logical Form models"
+    number: "US Patent 12,608,373"
+    year: 2026
+    status: granted
+    authors: "G. Tangari, <strong>CDV Hoang</strong>, P. Zaremoodi, P. Arthur, N. Mathur, ME. Johnson, TL. Duong"
+    area: "NL2SQL"
+  - title: "Lexical dropout for natural language processing"
+    number: "US Patent 12,572,852"
+    year: 2026
+    status: granted
+    authors: "TQ. Pham, <strong>CDV Hoang</strong>, TT. Vu, ME. Johnson, TL. Duong"
+    area: "NLP"
+  - title: "Gazetteer integration for neural named entity recognition"
+    number: "US Patent 12,566,921"
+    year: 2026
+    status: granted
+    authors: "TQ. Pham, <strong>CDV Hoang</strong>, ME. Johnson, TL. Duong"
+    area: "NER"
+  - title: "Techniques for using named entity recognition to resolve entity expression"
+    number: "US Patent 12,554,929"
+    year: 2026
+    status: granted
+    authors: "AD. Kanuga, <strong>CDV Hoang</strong>, ME. Johnson, V. Raghavendra, Y. Wu, SWC. Siu, et al."
+    area: "NER"
+  - title: "Addressing catastrophic forgetting and over-generalization in neural networks"
+    number: "US Patent 12,541,672"
+    year: 2026
+    status: granted
+    authors: "<strong>CDV Hoang</strong> et al."
+    area: "ML Training"
+  - title: "Techniques for efficient encoding in neural semantic parsing systems"
+    number: "US Appl. 18/409,676"
+    year: 2025
+    status: application
+    authors: "<strong>CDV Hoang</strong>, P. Zaremoodi, TT. Vu, G. Tangari, ME. Johnson, TL. Duong, V. Vishnoi"
+    area: "NL2SQL"
+  - title: "Framework for focused training of language models and end-to-end hypertuning"
+    number: "US Appl. 19/085,675"
+    year: 2025
+    status: application
+    authors: "P. Zaremoodi, <strong>CDV Hoang</strong>, D. Vu, DH. Tran, B. Saha, et al."
+    area: "LLM Training"
+  - title: "Techniques for converting a natural language utterance to an intermediate database query representation"
+    number: "US Appl. 18/209,844"
+    year: 2024
+    status: application
+    authors: "<strong>CDV Hoang</strong>, SA. McRitchie, ME. Johnson, et al."
+    area: "NL2SQL"
+  - title: "Context tag integration with named entity recognition models"
+    number: "US Appl. 17/648,376"
+    year: 2022
+    status: application
+    authors: "D. Vu, TQ. Pham, <strong>CDV Hoang</strong>, SPK. Gadde, TL. Duong, ME. Johnson, V. Vishnoi"
+    area: "NER"
+  - title: "Method and system for over-prediction in neural networks"
+    number: "US Appl. 17/455,181"
+    year: 2022
+    status: application
+    authors: "<strong>CDV Hoang</strong>, TT. Vu, P. Zaremoodi, Y. Xu, et al."
+    area: "ML Training"
+  - title: "Method and system for training neural sequence-to-sequence models by incorporating global features"
+    number: "US Pub. 2021/0110254"
+    year: 2021
+    status: pub
+    authors: "<strong>CDV Hoang</strong>, I. Calapodescu, M. Dymetman"
+    area: "NLP / ML"
+  - title: "Task-oriented dialog suitable for a standalone device"
+    number: "US Appl. 17/005,847"
+    year: 2021
+    status: application
+    authors: "TL. Duong, ME. Johnson, <strong>CDV Hoang</strong>, TQ. Pham, YH. Hong, et al."
+    area: "Dialogue"
 papers:
   - layout: paper
     paper-type: inproceedings

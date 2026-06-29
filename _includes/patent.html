@@ -1,0 +1,18 @@
+<div style="padding: 6px 0; border-bottom: 1px solid #f0f0f0;">
+  <span style="font-size: 0.95em;"><strong>{{ include.patent.title }}</strong></span><br/>
+  <span class="text-muted" style="font-size: 0.88em;">
+    {{ include.patent.number }} &bull; {{ include.patent.year }}
+    &nbsp;
+    {% if include.patent.status == "granted" %}
+      <span class="label label-success">Granted</span>
+    {% elsif include.patent.status == "application" %}
+      <span class="label label-warning">Application</span>
+    {% elsif include.patent.status == "pub" %}
+      <span class="label label-default">Pre-Grant Pub.</span>
+    {% endif %}
+    {% if include.patent.area %}
+      <span class="label label-info" style="font-size: 0.8em;">{{ include.patent.area }}</span>
+    {% endif %}
+  </span><br/>
+  <small class="text-muted">{{ include.patent.authors }}</small>
+</div>
