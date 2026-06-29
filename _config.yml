@@ -1,17 +1,36 @@
 exclude: ['README.md']
 timezone: AU
 patents:
-  - title: "Large language models for NL2SQL with long context finetuning"
-    number: "US Patent App. 19/035,561"
-    year: 2026
-    status: application
-    authors: "<strong>CDV Hoang</strong> et al."
-    area: "NL2SQL"
+  # ---- GRANTED PATENTS (newest first) ----
   - title: "Detecting out-of-domain, out-of-scope, and confusion-span (OOCS) input for NL2Logical Form models"
     number: "US Patent 12,608,373"
     year: 2026
     status: granted
     authors: "G. Tangari, <strong>CDV Hoang</strong>, P. Zaremoodi, P. Arthur, N. Mathur, ME. Johnson, TL. Duong"
+    area: "NL2SQL"
+  - title: "Data manufacturing frameworks for synthesizing synthetic training data for NL2Logical Form models"
+    number: "US Patent 12,602,617"
+    year: 2026
+    status: granted
+    authors: "P. Arthur, V. Vishnoi, ME. Johnson, TL. Duong, SPK. Gadde, BS. Vinnakota, <strong>CDV Hoang</strong>, SWC. Siu, N. Mathur, G. Tangari, AD. Kanuga"
+    area: "NL2SQL"
+  - title: "Wide and deep network for language detection using hash embeddings"
+    number: "US Patent 12,602,545"
+    year: 2026
+    status: granted
+    authors: "TT. Vu, P. Zaremoodi, D. Vu, ME. Johnson, TL. Duong, X. Zhong, V. Blinov, <strong>CDV Hoang</strong>, YH. Hong, V. Goel, PV. Ogren, SPK. Gadde, V. Vishnoi"
+    area: "Text Classification"
+  - title: "Output interpretation for a meaning representation language system"
+    number: "US Patent 12,579,137"
+    year: 2026
+    status: granted
+    authors: "C. Xu, P. Zaremoodi, <strong>CDV Hoang</strong>, N. Mathur, P. Arthur, SWC. Siu, AD. Kanuga, G. Tangari, ME. Johnson, TL. Duong, V. Vishnoi, SA. McRitchie, CM. Broadbent"
+    area: "NL2SQL"
+  - title: "Transforming natural language to a logical form"
+    number: "US Patent 12,573,380"
+    year: 2026
+    status: granted
+    authors: "G. Tangari, <strong>CDV Hoang</strong>, SA. McRitchie, SWC. Siu, D. Guo, CM. Broadbent, TL. Duong, SPK. Gadde, V. Vishnoi, KKH. Eng, C. Basavaraju"
     area: "NL2SQL"
   - title: "Lexical dropout for natural language processing"
     number: "US Patent 12,572,852"
@@ -19,6 +38,12 @@ patents:
     status: granted
     authors: "TQ. Pham, <strong>CDV Hoang</strong>, TT. Vu, ME. Johnson, TL. Duong"
     area: "NLP"
+  - title: "System and method for augmenting training data for NL2Meaning Representation Language systems"
+    number: "US Patent 12,572,755"
+    year: 2026
+    status: granted
+    authors: "P. Arthur, G. Tangari, N. Mathur, AD. Kanuga, <strong>CDV Hoang</strong>, P. Zaremoodi, TL. Duong, ME. Johnson"
+    area: "NL2SQL"
   - title: "Gazetteer integration for neural named entity recognition"
     number: "US Patent 12,566,921"
     year: 2026
@@ -37,48 +62,265 @@ patents:
     status: granted
     authors: "<strong>CDV Hoang</strong> et al."
     area: "ML Training"
+  - title: "Techniques for augmenting training data for aggregation and sorting operations in NL2SQL"
+    number: "US Patent 12,530,349"
+    year: 2026
+    status: granted
+    authors: "G. Tangari, N. Mathur, P. Arthur, <strong>CDV Hoang</strong>, AD. Kanuga, SWC. Siu, SNA. Zaidi, P. Zaremoodi, TL. Duong, ME. Johnson"
+    area: "NL2SQL"
+  - title: "Fusion of word embeddings and word scores for text classification"
+    number: "US Patent 12,518,098"
+    year: 2026
+    status: granted
+    authors: "AA. Abobakr, ME. Johnson, TL. Duong, V. Blinov, YH. Hong, <strong>CDV Hoang</strong>, D. Vu"
+    area: "Text Classification"
+  - title: "Method and system for over-prediction in neural networks"
+    number: "US Patent 12,518,129"
+    year: 2026
+    status: granted
+    authors: "<strong>CDV Hoang</strong>, TT. Vu, P. Zaremoodi, Y. Xu, V. Blinov, YH. Hong, YDT. Dharmasiri, V. Vishnoi, EL. Jalaluddin, M. Parekh, TL. Duong, ME. Johnson"
+    area: "ML Training"
+  - title: "Fine-tuning multi-head network from a single transformer layer of pre-trained language model"
+    number: "US Patent 12,512,091"
+    year: 2025
+    status: granted
+    authors: "TT. Vu, TQ. Pham, OM. Nezami, ME. Johnson, TL. Duong, <strong>CDV Hoang</strong>"
+    area: "ML Training"
+  - title: "Enhanced logits for natural language processing"
+    number: "US Patent 12,511,492"
+    year: 2025
+    status: granted
+    authors: "Y. Xu, P. Zaremoodi, TT. Vu, <strong>CDV Hoang</strong>, V. Blinov, YH. Hong, YDT. Dharmasiri, V. Vishnoi, EL. Jalaluddin, M. Parekh, TL. Duong, ME. Johnson"
+    area: "NL2SQL"
+  - title: "Model robustness on operators and triggering keywords in NL2MRL systems"
+    number: "US Patent 12,475,325"
+    year: 2025
+    status: granted
+    authors: "G. Tangari, C. Xu, N. Mathur, P. Arthur, SNA. Zaidi, AD. Kanuga, <strong>CDV Hoang</strong>, P. Zaremoodi, TL. Duong, ME. Johnson, V. Vishnoi"
+    area: "NL2SQL"
+  - title: "Calibrating confidence scores of a machine learning model trained as a natural language interface"
+    number: "US Patent 12,430,330"
+    year: 2025
+    status: granted
+    authors: "G. Tangari, <strong>CDV Hoang</strong>, ME. Johnson, P. Zaremoodi, N. Mathur, AD. Kanuga, TL. Duong"
+    area: "NL2SQL"
+  - title: "Transforming natural language to structured query language based on multi-task learning and joint training"
+    number: "US Patent 12,430,329"
+    year: 2025
+    status: granted
+    authors: "<strong>CDV Hoang</strong>, V. Vishnoi, ME. Johnson, TL. Duong, SPK. Gadde, BS. Vinnakota"
+    area: "NL2SQL"
+  - title: "Transforming natural language to structured query language based on scalable search and schema linking"
+    number: "US Patent 12,412,034"
+    year: 2025
+    status: granted
+    authors: "JM. John, V. Vishnoi, ME. Johnson, TL. Duong, SPK. Gadde, BS. Vinnakota, S. Subramanian, <strong>CDV Hoang</strong>, YDT. Dharmasiri, N. Mathur, AD. Kanuga, P. Arthur, G. Tangari, SWC. Siu"
+    area: "NL2SQL"
+  - title: "Method and system for constraint-based hyperparameter tuning"
+    number: "US Patent 12,405,975"
+    year: 2025
+    status: granted
+    authors: "ME. Johnson, TL. Duong, V. Vishnoi, BS. Vinnakota, TQ. Pham, <strong>CDV Hoang</strong>"
+    area: "ML Training"
+  - title: "Context tag integration with named entity recognition models"
+    number: "US Patent 12,361,219"
+    year: 2025
+    status: granted
+    authors: "D. Vu, TQ. Pham, <strong>CDV Hoang</strong>, SPK. Gadde, TL. Duong, ME. Johnson, V. Vishnoi"
+    area: "NER"
+  - title: "Data manufacturing frameworks for synthesizing synthetic training data (continuation)"
+    number: "US Patent 12,307,336"
+    year: 2025
+    status: granted
+    authors: "P. Arthur, V. Vishnoi, ME. Johnson, TL. Duong, SPK. Gadde, BS. Vinnakota, <strong>CDV Hoang</strong>, SWC. Siu, N. Mathur, G. Tangari, AD. Kanuga"
+    area: "NL2SQL"
+  - title: "Techniques for out-of-domain (OOD) detection"
+    number: "US Patent 12,299,402"
+    year: 2025
+    status: granted
+    authors: "TL. Duong, ME. Johnson, V. Vishnoi, CC. Pan, V. Blinov, <strong>CDV Hoang</strong>, EL. Jalaluddin, D. Vu, BS. Vinnakota"
+    area: "NL2SQL"
+  - title: "Framework for focused training of language models and end-to-end hypertuning"
+    number: "US Patent 12,288,550"
+    year: 2025
+    status: granted
+    authors: "P. Zaremoodi, <strong>CDV Hoang</strong>, D. Vu, DH. Tran, B. Saha, NN. Bhat, TT. Vu, TQ. Pham, AC. Pocock, K. Silverstein, SPK. Gadde, V. Vishnoi, ME. Johnson, TL. Duong"
+    area: "LLM Training"
+  - title: "Distance-based logit value for natural language processing"
+    number: "US Patent 12,210,842"
+    year: 2025
+    status: granted
+    authors: "Y. Xu, P. Zaremoodi, TT. Vu, <strong>CDV Hoang</strong>, V. Blinov, YH. Hong, YDT. Dharmasiri, V. Vishnoi, EL. Jalaluddin, M. Parekh, TL. Duong, ME. Johnson"
+    area: "NL2SQL"
+  - title: "System and techniques for handling long text for pre-trained language models"
+    number: "US Patent 12,210,830"
+    year: 2025
+    status: granted
+    authors: "TT. Vu, TQ. Pham, ME. Johnson, TL. Duong, Y. Xu, P. Zaremoodi, OM. Nezami, B. Saha, <strong>CDV Hoang</strong>"
+    area: "NLP"
+  - title: "Multi-feature balancing for natural language processors"
+    number: "US Patent 12,153,885"
+    year: 2024
+    status: granted
+    authors: "TL. Duong, V. Vishnoi, ME. Johnson, EL. Jalaluddin, TQ. Pham, <strong>CDV Hoang</strong>, P. Zaremoodi, SPK. Gadde, AD. Kanuga, Z. Li, YX. Wu"
+    area: "NL2SQL"
+  - title: "Distance-based logit value for natural language processing (continuation)"
+    number: "US Patent 12,019,994"
+    year: 2024
+    status: granted
+    authors: "Y. Xu, P. Zaremoodi, TT. Vu, <strong>CDV Hoang</strong>, V. Blinov, YH. Hong, YDT. Dharmasiri, V. Vishnoi, EL. Jalaluddin, M. Parekh, TL. Duong, ME. Johnson"
+    area: "NL2SQL"
+  - title: "Techniques for out-of-domain (OOD) detection (continuation)"
+    number: "US Patent 12,014,146"
+    year: 2024
+    status: granted
+    authors: "TL. Duong, ME. Johnson, V. Vishnoi, CC. Pan, V. Blinov, <strong>CDV Hoang</strong>, EL. Jalaluddin, D. Vu, BS. Vinnakota"
+    area: "NL2SQL"
+  - title: "Enhanced logits for natural language processing (continuation)"
+    number: "US Patent 11,972,220"
+    year: 2024
+    status: granted
+    authors: "Y. Xu, P. Zaremoodi, TT. Vu, <strong>CDV Hoang</strong>, V. Blinov, YH. Hong, YDT. Dharmasiri, V. Vishnoi, EL. Jalaluddin, M. Parekh, TL. Duong, ME. Johnson"
+    area: "NL2SQL"
+  - title: "Techniques for out-of-domain (OOD) detection (original)"
+    number: "US Patent 11,763,092"
+    year: 2023
+    status: granted
+    authors: "TL. Duong, ME. Johnson, V. Vishnoi, CC. Pan, V. Blinov, <strong>CDV Hoang</strong>, EL. Jalaluddin, D. Vu, BS. Vinnakota"
+    area: "NL2SQL"
+  - title: "Method and system for training neural sequence-to-sequence models by incorporating global features"
+    number: "US Patent 11,681,911"
+    year: 2023
+    status: granted
+    authors: "<strong>CDV Hoang</strong>, I. Calapodescu, M. Dymetman"
+    area: "ML Training"
+  - title: "Task-oriented dialog suitable for a standalone device"
+    number: "US Patent 11,574,636"
+    year: 2023
+    status: granted
+    authors: "TL. Duong, ME. Johnson, <strong>CDV Hoang</strong>, TQ. Pham, YH. Hong, V. Dovgalecs, G. Bashkansky, J. Black, A. Bleeker, S. Le Huitouze"
+    area: "Dialogue"
+  # ---- PATENT APPLICATIONS (newest first) ----
+  - title: "Large language models for NL2SQL with long context finetuning"
+    number: "US Patent App. 19/035,561"
+    year: 2026
+    status: application
+    authors: "<strong>CDV Hoang</strong> et al."
+    area: "NL2SQL"
+  - title: "Fusion of word embeddings and word scores for text classification"
+    number: "US Patent App. 19/415,225"
+    year: 2026
+    status: application
+    authors: "<strong>CDV Hoang</strong> et al."
+    area: "Text Classification"
+  - title: "Fine-tuning multi-head network from a single transformer layer (continuation)"
+    number: "US Patent App. 19/402,418"
+    year: 2026
+    status: application
+    authors: "<strong>CDV Hoang</strong> et al."
+    area: "ML Training"
+  - title: "In-context learning for NL2SQL with pattern-based retrieval"
+    number: "US Patent App. 19/062,932"
+    year: 2026
+    status: application
+    authors: "<strong>CDV Hoang</strong> et al."
+    area: "NL2SQL"
+  - title: "Generating test suites for testing code modules"
+    number: "US Patent App. 18/936,052"
+    year: 2026
+    status: application
+    authors: "<strong>CDV Hoang</strong> et al."
+    area: "NL2Code"
+  - title: "SQL fixit — automated generation of fine-tuning data using LLMs"
+    number: "US Patent App. 18/820,708"
+    year: 2026
+    status: application
+    authors: "<strong>CDV Hoang</strong> et al."
+    area: "NL2SQL"
+  - title: "Execution and semantic error correction capabilities for NL2Logical Form models"
+    number: "US Patent App. 18/788,732"
+    year: 2026
+    status: application
+    authors: "<strong>CDV Hoang</strong> et al."
+    area: "NL2SQL"
+  - title: "Calibrating confidence scores of a machine learning model trained as a natural language interface (continuation)"
+    number: "US Patent App. 19/311,565"
+    year: 2025
+    status: application
+    authors: "<strong>CDV Hoang</strong> et al."
+    area: "NL2SQL"
+  - title: "Context tag integration with named entity recognition models (continuation)"
+    number: "US Patent App. 19/235,404"
+    year: 2025
+    status: application
+    authors: "<strong>CDV Hoang</strong> et al."
+    area: "NER"
   - title: "Techniques for efficient encoding in neural semantic parsing systems"
-    number: "US Appl. 18/409,676"
+    number: "US Patent App. 18/409,676"
     year: 2025
     status: application
     authors: "<strong>CDV Hoang</strong>, P. Zaremoodi, TT. Vu, G. Tangari, ME. Johnson, TL. Duong, V. Vishnoi"
     area: "NL2SQL"
-  - title: "Framework for focused training of language models and end-to-end hypertuning"
-    number: "US Appl. 19/085,675"
+  - title: "Resolving date/time expression ambiguity in transforming natural language to a meaning representation"
+    number: "US Patent App. 18/409,193"
+    year: 2025
+    status: application
+    authors: "<strong>CDV Hoang</strong> et al."
+    area: "NL2SQL"
+  - title: "Framework for focused training of language models and end-to-end hypertuning (continuation)"
+    number: "US Patent App. 19/085,675"
     year: 2025
     status: application
     authors: "P. Zaremoodi, <strong>CDV Hoang</strong>, D. Vu, DH. Tran, B. Saha, et al."
     area: "LLM Training"
+  - title: "System and techniques for handling long text for pre-trained language models (continuation)"
+    number: "US Patent App. 18/987,825"
+    year: 2025
+    status: application
+    authors: "<strong>CDV Hoang</strong> et al."
+    area: "NLP"
+  - title: "Managing date-time intervals in transforming natural language to a logical form"
+    number: "US Patent App. 18/794,986"
+    year: 2025
+    status: application
+    authors: "<strong>CDV Hoang</strong> et al."
+    area: "NL2SQL"
+  - title: "Techniques for transforming natural language conversation into a visualization representation"
+    number: "US Patent App. 18/616,801"
+    year: 2025
+    status: application
+    authors: "<strong>CDV Hoang</strong> et al."
+    area: "Analytics"
+  - title: "Techniques for manufacturing training data to transform natural language into a visualization representation"
+    number: "US Patent App. 18/593,316"
+    year: 2025
+    status: application
+    authors: "<strong>CDV Hoang</strong> et al."
+    area: "Analytics"
+  - title: "Multi-feature balancing for natural language processors (continuation)"
+    number: "US Patent App. 18/819,441"
+    year: 2024
+    status: application
+    authors: "<strong>CDV Hoang</strong> et al."
+    area: "NL2SQL"
+  - title: "System and method of selective fine-tuning for custom training of a NL2Logical Form model"
+    number: "US Patent App. 18/236,192"
+    year: 2024
+    status: application
+    authors: "<strong>CDV Hoang</strong> et al."
+    area: "ML Training"
   - title: "Techniques for converting a natural language utterance to an intermediate database query representation"
-    number: "US Appl. 18/209,844"
+    number: "US Patent App. 18/209,844"
     year: 2024
     status: application
     authors: "<strong>CDV Hoang</strong>, SA. McRitchie, ME. Johnson, et al."
     area: "NL2SQL"
-  - title: "Context tag integration with named entity recognition models"
-    number: "US Appl. 17/648,376"
-    year: 2022
+  - title: "Method and system for target-based hyperparameter tuning"
+    number: "US Patent App. 17/216,498"
+    year: 2021
     status: application
-    authors: "D. Vu, TQ. Pham, <strong>CDV Hoang</strong>, SPK. Gadde, TL. Duong, ME. Johnson, V. Vishnoi"
-    area: "NER"
-  - title: "Method and system for over-prediction in neural networks"
-    number: "US Appl. 17/455,181"
-    year: 2022
-    status: application
-    authors: "<strong>CDV Hoang</strong>, TT. Vu, P. Zaremoodi, Y. Xu, et al."
+    authors: "<strong>CDV Hoang</strong> et al."
     area: "ML Training"
-  - title: "Method and system for training neural sequence-to-sequence models by incorporating global features"
-    number: "US Pub. 2021/0110254"
-    year: 2021
-    status: pub
-    authors: "<strong>CDV Hoang</strong>, I. Calapodescu, M. Dymetman"
-    area: "NLP / ML"
-  - title: "Task-oriented dialog suitable for a standalone device"
-    number: "US Appl. 17/005,847"
-    year: 2021
-    status: application
-    authors: "TL. Duong, ME. Johnson, <strong>CDV Hoang</strong>, TQ. Pham, YH. Hong, et al."
-    area: "Dialogue"
 papers:
   - layout: paper
     paper-type: inproceedings
