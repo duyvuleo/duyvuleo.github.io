@@ -16,31 +16,30 @@
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
-  {% if page.neural_bg %}
-  <style>
-    body {
-      background: linear-gradient(135deg, #f0f4ff 0%, #e8eef8 50%, #f4f0ff 100%);
-      min-height: 100vh;
-    }
-    #neural-bg {
-      position: fixed;
-      top: 0; left: 0;
-      width: 100%; height: 100%;
-      z-index: 0;
-      pointer-events: none;
-    }
-    .container {
-      position: relative;
-      z-index: 1;
-      background: rgba(255,255,255,0.82);
-      border-radius: 6px;
-      margin-top: 12px;
-      margin-bottom: 12px;
-      padding-top: 8px;
-      box-shadow: 0 2px 24px rgba(20,52,120,0.07);
-    }
-  </style>
-  {% endif %}
+
+    <style>
+      body {
+        background: linear-gradient(135deg, #f0f4ff 0%, #e8eef8 50%, #f4f0ff 100%);
+        min-height: 100vh;
+      }
+      #neural-bg {
+        position: fixed;
+        top: 0; left: 0;
+        width: 100%; height: 100%;
+        z-index: 0;
+        pointer-events: none;
+      }
+      .container {
+        position: relative;
+        z-index: 1;
+        background: rgba(255,255,255,0.88);
+        border-radius: 6px;
+        margin-top: 16px;
+        margin-bottom: 16px;
+        padding: 20px 36px 8px 36px;
+        box-shadow: 0 2px 28px rgba(20,52,120,0.09);
+      }
+    </style>
   </head>
   <body>
     <!-- JavaScript plugins (requires jQuery) -->
@@ -48,8 +47,31 @@
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="js/bootstrap.min.js"></script>
 
-    {% if page.neural_bg %}
     <canvas id="neural-bg"></canvas>
+
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-2">
+          {% include nav-bar.html %}
+        </div>
+        <div class="col-sm-10">
+          {{ content }}
+        </div>
+      </div>
+      <footer class="text-center text-muted">
+        <hr/>
+        Last updated {{ site.time | date: "%B %d, %Y" }}.<br/>
+        Created with
+        <a href="http://git-scm.com/">git</a>,
+        <a href="http://jekyllrb.com">jekyll</a>,
+        <a href="http://getbootstrap.com/">bootstrap</a>,
+        and <a href="http://www.vim.org/">vim</a>.<br/>
+        Adapted from
+        <a href="https://github.com/alopez/alopez.github.com">Adam Lopez's code</a>.<br/>
+        <br/><br/>
+      </footer>
+    </div>
+
     <script>
     (function () {
       var canvas = document.getElementById('neural-bg');
@@ -86,10 +108,9 @@
             var dy = nodes[i].y - nodes[j].y;
             var d  = Math.sqrt(dx*dx + dy*dy);
             if (d < MAX_D) {
-              var alpha = (1 - d / MAX_D) * 0.16;
               ctx.beginPath();
-              ctx.strokeStyle = 'rgba(20,52,120,' + alpha + ')';
-              ctx.lineWidth = 0.75;
+              ctx.strokeStyle = 'rgba(20,52,120,' + (1 - d / MAX_D) * 0.18 + ')';
+              ctx.lineWidth = 0.8;
               ctx.moveTo(nodes[i].x, nodes[i].y);
               ctx.lineTo(nodes[j].x, nodes[j].y);
               ctx.stroke();
@@ -101,15 +122,14 @@
         for (var i = 0; i < nodes.length; i++) {
           var n = nodes[i];
           n.pulse += 0.018;
-          var glow = 0.28 + 0.12 * Math.sin(n.pulse);
+          var glow = 0.32 + 0.14 * Math.sin(n.pulse);
           ctx.beginPath();
           ctx.arc(n.x, n.y, n.r, 0, Math.PI * 2);
           ctx.fillStyle = 'rgba(20,52,120,' + glow + ')';
           ctx.fill();
 
-          /* subtle halo */
           var grad = ctx.createRadialGradient(n.x, n.y, n.r, n.x, n.y, n.r * 4);
-          grad.addColorStop(0, 'rgba(80,130,220,0.10)');
+          grad.addColorStop(0, 'rgba(80,130,220,0.12)');
           grad.addColorStop(1, 'rgba(80,130,220,0)');
           ctx.beginPath();
           ctx.arc(n.x, n.y, n.r * 4, 0, Math.PI * 2);
@@ -135,30 +155,5 @@
       });
     })();
     </script>
-    {% endif %}
-
-    <div class="container">
-      <div class="row">
-        <div class="col-sm-2">
-          {% include nav-bar.html %}
-        </div>
-        <div class="col-sm-10">
-          {{ content }}
-        </div>
-      </div>
-      <footer class="text-center text-muted">
-        <hr/>
-        Last updated {{ site.time | date: "%B %d, %Y" }}.<br/>
-        Created with 
-        <a href="http://git-scm.com/">git</a>,
-        <a href="http://jekyllrb.com">jekyll</a>,
-        <a href="http://getbootstrap.com/">bootstrap</a>,
-        and <a href="http://www.vim.org/">vim</a>.<br/> 
-        Adapted from
-        <a href="https://github.com/alopez/alopez.github.com">Adam Lopez's code</a>.<br/>
-        <br/><br/>
-      </footer>
-    </div>
   </body>
 </html>
-
