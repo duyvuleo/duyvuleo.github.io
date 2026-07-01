@@ -205,7 +205,7 @@ patents:
     number: "US Patent App. 19/035,561"
     year: 2026
     status: application
-    authors: "Cong Duy Vu Hoang, Duy Vu, and others"
+    authors: "Cong Duy Vu Hoang, Duy Vu, Gioacchino Tangari, Steve Wai-Chun Siu, Dalu Guo, Budhaditya Saha, Thanh Tien Vu, Yakupitiyage Don Thanuja Samodhye Dharmasiri, Thanh Long Duong, Anshuk Pal Chaudhuri, Prabhakara Reddy Munnangi, Subash Kumar Bhamidipati"
     area: "NL2SQL"
   - title: "Fusion of word embeddings and word scores for text classification"
     number: "US Patent App. 19/415,225"
@@ -223,25 +223,25 @@ patents:
     number: "US Patent App. 19/062,932"
     year: 2026
     status: application
-    authors: "N. P. Chandrasekarasatry, Duy Vu, and others"
+    authors: "Nagesh Panyam Chandrasekarasatry, Duy Vu, Gioacchino Tangari, Cong Duy Vu Hoang, Yakupitiyage Don Thanuja Samodhye Dharmasiri, Vladislav Blinov, Thanh Tien Vu, Ying Xu, Thanh Long Duong"
     area: "NL2SQL"
   - title: "Generating test suites for testing code modules"
     number: "US Patent App. 18/936,052"
     year: 2026
     status: application
-    authors: "M. Chandramohan, Meng Chen, and others"
+    authors: "Mahinthan Chandramohan, Meng Chen, Jovan Jancic, Cong Duy Vu Hoang, Padmanabhan Krishnan, Mahdi Kazemi Moghaddam, Philip Arthur, Yakupitiyage Don Thanuja Samodhye Dharmasiri, Thanh Long Duong"
     area: "NL2Code"
   - title: "SQL fixit-automated generation of fine-tuning data using llms"
     number: "US Patent App. 18/820,708"
     year: 2026
     status: application
-    authors: "Clemence Lanfranchi, Damien Hilloulin, and others"
+    authors: "Clemence Lanfranchi, Damien Hilloulin, Rhicheek Patra, Sungpack Hong, Hassan Chafi, Yakupitiyage Don Thanuja Samodhye Dharmasiri, Cong Duy Vu Hoang, Gioacchino Tangari, Thanh Tien Vu, Thanh Long Duong"
     area: "NL2SQL"
   - title: "Execution and semantic error correction capabilities for natural language to logical form model"
     number: "US Patent App. 18/788,732"
     year: 2026
     status: application
-    authors: "Duy Vu, Steve Wai-Chun Siu, and others"
+    authors: "Duy Vu, Steve Wai-Chun Siu, Gioacchino Tangari, Cong Duy Vu Hoang, Vladislav Blinov, Yakupitiyage Don Thanuja Samodhye Dharmasiri, Ying Xu, Thanh Long Duong"
     area: "NL2SQL"
   - title: "Calibrating confidence scores of a machine learning model trained as a natural language interface"
     number: "US Patent App. 19/311,565"
@@ -289,13 +289,13 @@ patents:
     number: "US Patent App. 18/616,801"
     year: 2025
     status: application
-    authors: "Cong Duy Vu Hoang, Gioacchino Tangari, Stephen Andrew McRitchie, Nitika Mathur, Aashna Devang Kanuga, Steve Wai-Chun Siu, and others"
+    authors: "Cong Duy Vu Hoang, Gioacchino Tangari, Stephen Andrew McRitchie, Nitika Mathur, Aashna Devang Kanuga, Steve Wai-Chun Siu, Dalu Guo, Chang Xu, Mark Edward Johnson, Christopher Mark Broadbent, Thanh Long Duong, Srinivasa Phani Kumar Gadde, Vishal Vishnoi, Chandan Basavaraju, Kenneth Khiaw Hong Eng"
     area: "Analytics"
   - title: "Techniques for manufacturing training data to transform natural language into a visualization representation"
     number: "US Patent App. 18/593,316"
     year: 2025
     status: application
-    authors: "Gioacchino Tangari, Steve Wai-Chun Siu, Dalu Guo, Cong Duy Vu Hoang, B. Sarioz, Chang Xu, Stephen Andrew McRitchie, and others"
+    authors: "Gioacchino Tangari, Steve Wai-Chun Siu, Dalu Guo, Cong Duy Vu Hoang, Berk Sarioz, Chang Xu, Stephen Andrew McRitchie, Mark Edward Johnson, Christopher Mark Broadbent, Thanh Long Duong, Srinivasa Phani Kumar Gadde, Vishal Vishnoi, Chandan Basavaraju, Kenneth Khiaw Hong Eng"
     area: "Analytics"
   - title: "Multi-feature balancing for natural language processors"
     number: "US Patent App. 18/819,441"
@@ -307,13 +307,13 @@ patents:
     number: "US Patent App. 18/236,192"
     year: 2024
     status: application
-    authors: "Shivashankar Subramanian, Gioacchino Tangari, Thanh Tien Vu, Cong Duy Vu Hoang, Poorya Zaremoodi, Dalu Guo, and others"
+    authors: "Shivashankar Subramanian, Gioacchino Tangari, Thanh Tien Vu, Cong Duy Vu Hoang, Poorya Zaremoodi, Dalu Guo, Mark Edward Johnson, Thanh Long Duong"
     area: "ML Training"
   - title: "Techniques for converting a natural language utterance to an intermediate database query representation"
     number: "US Patent App. 18/209,844"
     year: 2024
     status: application
-    authors: "Cong Duy Vu Hoang, Stephen Andrew McRitchie, Mark Edward Johnson, Shivashankar Subramanian, Aashna Devang Kanuga, and others"
+    authors: "Cong Duy Vu Hoang, Stephen Andrew McRitchie, Mark Edward Johnson, Shivashankar Subramanian, Aashna Devang Kanuga, Nitika Mathur, Gioacchino Tangari, Steve Wai-Chun Siu, Poorya Zaremoodi, Vasisht Raghavendra, Thanh Long Duong, Srinivasa Phani Kumar Gadde, Vishal Vishnoi, Christopher Mark Broadbent, Philip Arthur, Syed Najam Abbas Zaidi"
     area: "NL2SQL"
   - title: "Data manufacturing frameworks for synthesizing synthetic training data to facilitate training a natural language to logical form model"
     number: "US Patent App. 18/065,434"
