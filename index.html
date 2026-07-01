@@ -66,6 +66,14 @@ with publications at ACL, EMNLP, NAACL, and COLING.
 <p style="text-align: justify;">*** I was promoted to <strong>Senior Manager, Applied Science &amp; AI</strong> at Oracle Corporation (Oct 2024), leading AI research programs across OAC, OCI, ODA, and OHAI. </p>
 <p style="text-align: justify;">*** Our Oracle IP portfolio has grown to <strong>34 granted U.S. patents</strong> and <strong>42 pending</strong> applications spanning NL2SQL, NL2Code, LLM training, NER, and dialog systems.</p>
 
+<h4>Selected Patents <small class="text-muted">(2020–2024)</small></h4>
+<p><small>See <a href="publications.html">full patent portfolio</a> (34 granted &bull; 42 pending).</small></p>
+{% for patent in site.patents %}
+  {% if patent.selected %}
+    {% include patent.html patent=patent %}
+  {% endif %}
+{% endfor %}
+
 <h4>Selected Publications</h4>
 {% for post in site.papers %}
   {% if post.selected %}

@@ -162,6 +162,7 @@ patents:
     number: "US Patent 12,153,885"
     year: 2024
     status: granted
+    selected: yes
     authors: "Thanh Long Duong, Vishal Vishnoi, Mark Edward Johnson, Elias Luqman Jalaluddin, Tuyen Quang Pham, Cong Duy Vu Hoang, Poorya Zaremoodi, Srinivasa Phani Kumar Gadde, Aashna Devang Kanuga, Zikai Li, Yuanxu Wu"
     area: "NL2SQL"
   - title: "Distance-based logit value for natural language processing"
@@ -180,24 +181,28 @@ patents:
     number: "US Patent 11,972,220"
     year: 2024
     status: granted
+    selected: yes
     authors: "Ying Xu, Poorya Zaremoodi, Thanh Tien Vu, Cong Duy Vu Hoang, Vladislav Blinov, Yu-Heng Hong, Yakupitiyage Don Thanuja Samodhye Dharmasiri, Vishal Vishnoi, Elias Luqman Jalaluddin, Manish Parekh, Thanh Long Duong, Mark Edward Johnson"
     area: "NL2SQL"
   - title: "Techniques for out-of-domain (OOD) detection"
     number: "US Patent 11,763,092"
     year: 2023
     status: granted
+    selected: yes
     authors: "Thanh Long Duong, Mark Edward Johnson, Vishal Vishnoi, Crystal C. Pan, Vladislav Blinov, Cong Duy Vu Hoang, Elias Luqman Jalaluddin, Duy Vu, Balakota Srinivas Vinnakota"
     area: "NL2SQL"
   - title: "Method and system for training neural sequence-to-sequence models by incorporating global features"
     number: "US Patent 11,681,911"
     year: 2023
     status: granted
+    selected: yes
     authors: "Cong Duy Vu Hoang, Ioan Calapodescu, Marc Dymetman"
     area: "ML Training"
   - title: "Task-oriented dialog suitable for a standalone device"
     number: "US Patent 11,574,636"
     year: 2023
     status: granted
+    selected: yes
     authors: "Thanh Long Duong, Mark Edward Johnson, Cong Duy Vu Hoang, Tuyen Quang Pham, Yu-Heng Hong, Vladislavs Dovgalecs, Guy Bashkansky, Jason Eric Black, Andrew David Bleeker, Serge Le Huitouze"
     area: "Dialogue"
   # ---- PATENT APPLICATIONS (newest first) ----
