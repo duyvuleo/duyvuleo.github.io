@@ -6,326 +6,326 @@ patents:
     number: "US Patent 12,608,373"
     year: 2026
     status: granted
-    authors: "Gioacchino Tangari, <strong>Cong Duy Vu Hoang</strong>, Poorya Zaremoodi, Philip Arthur, Nitika Mathur, Mark Edward Johnson, Thanh Long Duong"
+    authors: "Gioacchino Tangari, Cong Duy Vu Hoang, Poorya Zaremoodi, Philip Arthur, Nitika Mathur, Mark Edward Johnson, Thanh Long Duong"
     area: "NL2SQL"
   - title: "Data manufacturing frameworks for synthesizing synthetic training data to facilitate training a natural language to logical form model"
     number: "US Patent 12,602,617"
     year: 2026
     status: granted
-    authors: "Philip Arthur, Vishal Vishnoi, Mark Edward Johnson, Thanh Long Duong, Srinivasa Phani Kumar Gadde, Balakota Srinivas Vinnakota, <strong>Cong Duy Vu Hoang</strong>, Steve Wai-Chun Siu, Nitika Mathur, Gioacchino Tangari, Aashna Devang Kanuga"
+    authors: "Philip Arthur, Vishal Vishnoi, Mark Edward Johnson, Thanh Long Duong, Srinivasa Phani Kumar Gadde, Balakota Srinivas Vinnakota, Cong Duy Vu Hoang, Steve Wai-Chun Siu, Nitika Mathur, Gioacchino Tangari, Aashna Devang Kanuga"
     area: "NL2SQL"
   - title: "Wide and deep network for language detection using hash embeddings"
     number: "US Patent 12,602,545"
     year: 2026
     status: granted
-    authors: "Thanh Tien Vu, Poorya Zaremoodi, Duy Vu, Mark Edward Johnson, Thanh Long Duong, Xu Zhong, Vladislav Blinov, <strong>Cong Duy Vu Hoang</strong>, Yu-Heng Hong, Vinamr Goel, Philip Victor Ogren, Srinivasa Phani Kumar Gadde, Vishal Vishnoi"
+    authors: "Thanh Tien Vu, Poorya Zaremoodi, Duy Vu, Mark Edward Johnson, Thanh Long Duong, Xu Zhong, Vladislav Blinov, Cong Duy Vu Hoang, Yu-Heng Hong, Vinamr Goel, Philip Victor Ogren, Srinivasa Phani Kumar Gadde, Vishal Vishnoi"
     area: "Text Classification"
   - title: "Output interpretation for a meaning representation language system"
     number: "US Patent 12,579,137"
     year: 2026
     status: granted
-    authors: "Chang Xu, Poorya Zaremoodi, <strong>Cong Duy Vu Hoang</strong>, Nitika Mathur, Philip Arthur, Steve Wai-Chun Siu, Aashna Devang Kanuga, Gioacchino Tangari, Mark Edward Johnson, Thanh Long Duong, Vishal Vishnoi, Stephen Andrew McRitchie, Christopher Mark Broadbent"
+    authors: "Chang Xu, Poorya Zaremoodi, Cong Duy Vu Hoang, Nitika Mathur, Philip Arthur, Steve Wai-Chun Siu, Aashna Devang Kanuga, Gioacchino Tangari, Mark Edward Johnson, Thanh Long Duong, Vishal Vishnoi, Stephen Andrew McRitchie, Christopher Mark Broadbent"
     area: "NL2SQL"
   - title: "Transforming natural language to a logical form"
     number: "US Patent 12,573,380"
     year: 2026
     status: granted
-    authors: "Gioacchino Tangari, <strong>Cong Duy Vu Hoang</strong>, Stephen Andrew McRitchie, Steve Wai-Chun Siu, Dalu Guo, Christopher Mark Broadbent, Thanh Long Duong, Srinivasa Phani Kumar Gadde, Vishal Vishnoi, Kenneth Khiaw Hong Eng, Chandan Basavaraju"
+    authors: "Gioacchino Tangari, Cong Duy Vu Hoang, Stephen Andrew McRitchie, Steve Wai-Chun Siu, Dalu Guo, Christopher Mark Broadbent, Thanh Long Duong, Srinivasa Phani Kumar Gadde, Vishal Vishnoi, Kenneth Khiaw Hong Eng, Chandan Basavaraju"
     area: "NL2SQL"
   - title: "Lexical dropout for natural language processing"
     number: "US Patent 12,572,852"
     year: 2026
     status: granted
-    authors: "Tuyen Quang Pham, <strong>Cong Duy Vu Hoang</strong>, Thanh Tien Vu, Mark Edward Johnson, Thanh Long Duong"
+    authors: "Tuyen Quang Pham, Cong Duy Vu Hoang, Thanh Tien Vu, Mark Edward Johnson, Thanh Long Duong"
     area: "NLP"
   - title: "System and method for augmenting training data for natural language to meaning representation language systems"
     number: "US Patent 12,572,755"
     year: 2026
     status: granted
-    authors: "Philip Arthur, Gioacchino Tangari, Nitika Mathur, Aashna Devang Kanuga, <strong>Cong Duy Vu Hoang</strong>, Poorya Zaremoodi, Thanh Long Duong, Mark Edward Johnson"
+    authors: "Philip Arthur, Gioacchino Tangari, Nitika Mathur, Aashna Devang Kanuga, Cong Duy Vu Hoang, Poorya Zaremoodi, Thanh Long Duong, Mark Edward Johnson"
     area: "NL2SQL"
   - title: "Gazetteer integration for neural named entity recognition"
     number: "US Patent 12,566,921"
     year: 2026
     status: granted
-    authors: "Tuyen Quang Pham, <strong>Cong Duy Vu Hoang</strong>, Mark Edward Johnson, Thanh Long Duong"
+    authors: "Tuyen Quang Pham, Cong Duy Vu Hoang, Mark Edward Johnson, Thanh Long Duong"
     area: "NER"
   - title: "Techniques for using named entity recognition to resolve entity expression in transforming natural language to a meaning representation language"
     number: "US Patent 12,554,929"
     year: 2026
     status: granted
-    authors: "Aashna Devang Kanuga, <strong>Cong Duy Vu Hoang</strong>, Mark Edward Johnson, Vasisht Raghavendra, Yuanxu Wu, Steve Wai-Chun Siu, Nitika Mathur, Gioacchino Tangari, Shubham Pawankumar Shah, Vanshika Sridharan, Zikai Li, Diego Andres Cornejo Barra, Stephen Andrew McRitchie, Christopher Mark Broadbent, Vishal Vishnoi, Srinivasa Phani Kumar Gadde, Poorya Zaremoodi, Thanh Long Duong, Bhagya Gayathri Hettige, Tuyen Quang Pham, Arash Shamaei, Thanh Tien Vu, Yakupitiyage Don Thanuja Samodhye Dharmasiri"
+    authors: "Aashna Devang Kanuga, Cong Duy Vu Hoang, Mark Edward Johnson, Vasisht Raghavendra, Yuanxu Wu, Steve Wai-Chun Siu, Nitika Mathur, Gioacchino Tangari, Shubham Pawankumar Shah, Vanshika Sridharan, Zikai Li, Diego Andres Cornejo Barra, Stephen Andrew McRitchie, Christopher Mark Broadbent, Vishal Vishnoi, Srinivasa Phani Kumar Gadde, Poorya Zaremoodi, Thanh Long Duong, Bhagya Gayathri Hettige, Tuyen Quang Pham, Arash Shamaei, Thanh Tien Vu, Yakupitiyage Don Thanuja Samodhye Dharmasiri"
     area: "NER"
   - title: "Addressing catastrophic forgetting and over-generalization while training a natural language to a meaning representation language system"
     number: "US Patent 12,541,672"
     year: 2026
     status: granted
-    authors: "Shivashankar Subramanian, Dalu Guo, Gioacchino Tangari, Nitika Mathur, <strong>Cong Duy Vu Hoang</strong>, Mark Edward Johnson, Thanh Long Duong"
+    authors: "Shivashankar Subramanian, Dalu Guo, Gioacchino Tangari, Nitika Mathur, Cong Duy Vu Hoang, Mark Edward Johnson, Thanh Long Duong"
     area: "ML Training"
   - title: "Techniques for augmenting training data for aggregation and sorting database operations in a natural language to database query system"
     number: "US Patent 12,530,349"
     year: 2026
     status: granted
-    authors: "Gioacchino Tangari, Nitika Mathur, Philip Arthur, <strong>Cong Duy Vu Hoang</strong>, Aashna Devang Kanuga, Steve Wai-Chun Siu, Syed Najam Abbas Zaidi, Poorya Zaremoodi, Thanh Long Duong, Mark Edward Johnson"
+    authors: "Gioacchino Tangari, Nitika Mathur, Philip Arthur, Cong Duy Vu Hoang, Aashna Devang Kanuga, Steve Wai-Chun Siu, Syed Najam Abbas Zaidi, Poorya Zaremoodi, Thanh Long Duong, Mark Edward Johnson"
     area: "NL2SQL"
   - title: "Fusion of word embeddings and word scores for text classification"
     number: "US Patent 12,518,098"
     year: 2026
     status: granted
-    authors: "Ahmed Ataallah Ataallah Abobakr, Mark Edward Johnson, Thanh Long Duong, Vladislav Blinov, Yu-Heng Hong, <strong>Cong Duy Vu Hoang</strong>, Duy Vu"
+    authors: "Ahmed Ataallah Ataallah Abobakr, Mark Edward Johnson, Thanh Long Duong, Vladislav Blinov, Yu-Heng Hong, Cong Duy Vu Hoang, Duy Vu"
     area: "Text Classification"
   - title: "Method and system for over-prediction in neural networks"
     number: "US Patent 12,518,129"
     year: 2026
     status: granted
-    authors: "<strong>Cong Duy Vu Hoang</strong>, Thanh Tien Vu, Poorya Zaremoodi, Ying Xu, Vladislav Blinov, Yu-Heng Hong, Yakupitiyage Don Thanuja Samodhye Dharmasiri, Vishal Vishnoi, Elias Luqman Jalaluddin, Manish Parekh, Thanh Long Duong, Mark Edward Johnson"
+    authors: "Cong Duy Vu Hoang, Thanh Tien Vu, Poorya Zaremoodi, Ying Xu, Vladislav Blinov, Yu-Heng Hong, Yakupitiyage Don Thanuja Samodhye Dharmasiri, Vishal Vishnoi, Elias Luqman Jalaluddin, Manish Parekh, Thanh Long Duong, Mark Edward Johnson"
     area: "ML Training"
   - title: "Fine-tuning multi-head network from a single transformer layer of pre-trained language model"
     number: "US Patent 12,512,091"
     year: 2025
     status: granted
-    authors: "Thanh Tien Vu, Tuyen Quang Pham, Omid Mohamed Nezami, Mark Edward Johnson, Thanh Long Duong, <strong>Cong Duy Vu Hoang</strong>"
+    authors: "Thanh Tien Vu, Tuyen Quang Pham, Omid Mohamed Nezami, Mark Edward Johnson, Thanh Long Duong, Cong Duy Vu Hoang"
     area: "ML Training"
   - title: "Enhanced logits for natural language processing"
     number: "US Patent 12,511,492"
     year: 2025
     status: granted
-    authors: "Ying Xu, Poorya Zaremoodi, Thanh Tien Vu, <strong>Cong Duy Vu Hoang</strong>, Vladislav Blinov, Yu-Heng Hong, Yakupitiyage Don Thanuja Samodhye Dharmasiri, Vishal Vishnoi, Elias Luqman Jalaluddin, Manish Parekh, Thanh Long Duong, Mark Edward Johnson"
+    authors: "Ying Xu, Poorya Zaremoodi, Thanh Tien Vu, Cong Duy Vu Hoang, Vladislav Blinov, Yu-Heng Hong, Yakupitiyage Don Thanuja Samodhye Dharmasiri, Vishal Vishnoi, Elias Luqman Jalaluddin, Manish Parekh, Thanh Long Duong, Mark Edward Johnson"
     area: "NL2SQL"
   - title: "Model robustness on operators and triggering keywords in natural language to a meaning representation language system"
     number: "US Patent 12,475,325"
     year: 2025
     status: granted
-    authors: "Gioacchino Tangari, Chang Xu, Nitika Mathur, Philip Arthur, Syed Najam Abbas Zaidi, Aashna Devang Kanuga, <strong>Cong Duy Vu Hoang</strong>, Poorya Zaremoodi, Thanh Long Duong, Mark Edward Johnson, Vishal Vishnoi"
+    authors: "Gioacchino Tangari, Chang Xu, Nitika Mathur, Philip Arthur, Syed Najam Abbas Zaidi, Aashna Devang Kanuga, Cong Duy Vu Hoang, Poorya Zaremoodi, Thanh Long Duong, Mark Edward Johnson, Vishal Vishnoi"
     area: "NL2SQL"
   - title: "Calibrating confidence scores of a machine learning model trained as a natural language interface"
     number: "US Patent 12,430,330"
     year: 2025
     status: granted
-    authors: "Gioacchino Tangari, <strong>Cong Duy Vu Hoang</strong>, Mark Edward Johnson, Poorya Zaremoodi, Nitika Mathur, Aashna Devang Kanuga, Thanh Long Duong"
+    authors: "Gioacchino Tangari, Cong Duy Vu Hoang, Mark Edward Johnson, Poorya Zaremoodi, Nitika Mathur, Aashna Devang Kanuga, Thanh Long Duong"
     area: "NL2SQL"
   - title: "Transforming natural language to structured query language based on multi-task learning and joint training"
     number: "US Patent 12,430,329"
     year: 2025
     status: granted
-    authors: "<strong>Cong Duy Vu Hoang</strong>, Vishal Vishnoi, Mark Edward Johnson, Thanh Long Duong, Srinivasa Phani Kumar Gadde, Balakota Srinivas Vinnakota"
+    authors: "Cong Duy Vu Hoang, Vishal Vishnoi, Mark Edward Johnson, Thanh Long Duong, Srinivasa Phani Kumar Gadde, Balakota Srinivas Vinnakota"
     area: "NL2SQL"
   - title: "Transforming natural language to structured query language based on scalable search and content-based schema linking"
     number: "US Patent 12,412,034"
     year: 2025
     status: granted
-    authors: "Jae Min John, Vishal Vishnoi, Mark Edward Johnson, Thanh Long Duong, Srinivasa Phani Kumar Gadde, Balakota Srinivas Vinnakota, Shivashankar Subramanian, <strong>Cong Duy Vu Hoang</strong>, Yakupitiyage Don Thanuja Samodhye Dharmasiri, Nitika Mathur, Aashna Devang Kanuga, Philip Arthur, Gioacchino Tangari, Steve Wai-Chun Siu"
+    authors: "Jae Min John, Vishal Vishnoi, Mark Edward Johnson, Thanh Long Duong, Srinivasa Phani Kumar Gadde, Balakota Srinivas Vinnakota, Shivashankar Subramanian, Cong Duy Vu Hoang, Yakupitiyage Don Thanuja Samodhye Dharmasiri, Nitika Mathur, Aashna Devang Kanuga, Philip Arthur, Gioacchino Tangari, Steve Wai-Chun Siu"
     area: "NL2SQL"
   - title: "Method and system for constraint based hyperparameter tuning"
     number: "US Patent 12,405,975"
     year: 2025
     status: granted
-    authors: "Mark Edward Johnson, Thanh Long Duong, Vishal Vishnoi, Balakota Srinivas Vinnakota, Tuyen Quang Pham, <strong>Cong Duy Vu Hoang</strong>"
+    authors: "Mark Edward Johnson, Thanh Long Duong, Vishal Vishnoi, Balakota Srinivas Vinnakota, Tuyen Quang Pham, Cong Duy Vu Hoang"
     area: "ML Training"
   - title: "Context tag integration with named entity recognition models"
     number: "US Patent 12,361,219"
     year: 2025
     status: granted
-    authors: "Duy Vu, Tuyen Quang Pham, <strong>Cong Duy Vu Hoang</strong>, Srinivasa Phani Kumar Gadde, Thanh Long Duong, Mark Edward Johnson, Vishal Vishnoi"
+    authors: "Duy Vu, Tuyen Quang Pham, Cong Duy Vu Hoang, Srinivasa Phani Kumar Gadde, Thanh Long Duong, Mark Edward Johnson, Vishal Vishnoi"
     area: "NER"
   - title: "Data manufacturing frameworks for synthesizing synthetic training data to facilitate training a natural language to logical form model"
     number: "US Patent 12,307,336"
     year: 2025
     status: granted
-    authors: "Philip Arthur, Vishal Vishnoi, Mark Edward Johnson, Thanh Long Duong, Srinivasa Phani Kumar Gadde, Balakota Srinivas Vinnakota, <strong>Cong Duy Vu Hoang</strong>, Steve Wai-Chun Siu, Nitika Mathur, Gioacchino Tangari, Aashna Devang Kanuga"
+    authors: "Philip Arthur, Vishal Vishnoi, Mark Edward Johnson, Thanh Long Duong, Srinivasa Phani Kumar Gadde, Balakota Srinivas Vinnakota, Cong Duy Vu Hoang, Steve Wai-Chun Siu, Nitika Mathur, Gioacchino Tangari, Aashna Devang Kanuga"
     area: "NL2SQL"
   - title: "Techniques for out-of-domain (OOD) detection"
     number: "US Patent 12,299,402"
     year: 2025
     status: granted
-    authors: "Thanh Long Duong, Mark Edward Johnson, Vishal Vishnoi, Crystal C. Pan, Vladislav Blinov, <strong>Cong Duy Vu Hoang</strong>, Elias Luqman Jalaluddin, Duy Vu, Balakota Srinivas Vinnakota"
+    authors: "Thanh Long Duong, Mark Edward Johnson, Vishal Vishnoi, Crystal C. Pan, Vladislav Blinov, Cong Duy Vu Hoang, Elias Luqman Jalaluddin, Duy Vu, Balakota Srinivas Vinnakota"
     area: "NL2SQL"
   - title: "Framework for focused training of language models and techniques for end-to-end hypertuning of the framework"
     number: "US Patent 12,288,550"
     year: 2025
     status: granted
-    authors: "Poorya Zaremoodi, <strong>Cong Duy Vu Hoang</strong>, Duy Vu, Dai Hoang Tran, Budhaditya Saha, Nagaraj N. Bhat, Thanh Tien Vu, Tuyen Quang Pham, Adam Craig Pocock, Katherine Silverstein, Srinivasa Phani Kumar Gadde, Vishal Vishnoi, Mark Edward Johnson, Thanh Long Duong"
+    authors: "Poorya Zaremoodi, Cong Duy Vu Hoang, Duy Vu, Dai Hoang Tran, Budhaditya Saha, Nagaraj N. Bhat, Thanh Tien Vu, Tuyen Quang Pham, Adam Craig Pocock, Katherine Silverstein, Srinivasa Phani Kumar Gadde, Vishal Vishnoi, Mark Edward Johnson, Thanh Long Duong"
     area: "LLM Training"
   - title: "Distance-based logit value for natural language processing"
     number: "US Patent 12,210,842"
     year: 2025
     status: granted
-    authors: "Ying Xu, Poorya Zaremoodi, Thanh Tien Vu, <strong>Cong Duy Vu Hoang</strong>, Vladislav Blinov, Yu-Heng Hong, Yakupitiyage Don Thanuja Samodhye Dharmasiri, Vishal Vishnoi, Elias Luqman Jalaluddin, Manish Parekh, Thanh Long Duong, Mark Edward Johnson"
+    authors: "Ying Xu, Poorya Zaremoodi, Thanh Tien Vu, Cong Duy Vu Hoang, Vladislav Blinov, Yu-Heng Hong, Yakupitiyage Don Thanuja Samodhye Dharmasiri, Vishal Vishnoi, Elias Luqman Jalaluddin, Manish Parekh, Thanh Long Duong, Mark Edward Johnson"
     area: "NL2SQL"
   - title: "System and techniques for handling long text for pre-trained language models"
     number: "US Patent 12,210,830"
     year: 2025
     status: granted
-    authors: "Thanh Tien Vu, Tuyen Quang Pham, Mark Edward Johnson, Thanh Long Duong, Ying Xu, Poorya Zaremoodi, Omid Mohamed Nezami, Budhaditya Saha, <strong>Cong Duy Vu Hoang</strong>"
+    authors: "Thanh Tien Vu, Tuyen Quang Pham, Mark Edward Johnson, Thanh Long Duong, Ying Xu, Poorya Zaremoodi, Omid Mohamed Nezami, Budhaditya Saha, Cong Duy Vu Hoang"
     area: "NLP"
   - title: "Multi-feature balancing for natural language processors"
     number: "US Patent 12,153,885"
     year: 2024
     status: granted
-    authors: "Thanh Long Duong, Vishal Vishnoi, Mark Edward Johnson, Elias Luqman Jalaluddin, Tuyen Quang Pham, <strong>Cong Duy Vu Hoang</strong>, Poorya Zaremoodi, Srinivasa Phani Kumar Gadde, Aashna Devang Kanuga, Zikai Li, Yuanxu Wu"
+    authors: "Thanh Long Duong, Vishal Vishnoi, Mark Edward Johnson, Elias Luqman Jalaluddin, Tuyen Quang Pham, Cong Duy Vu Hoang, Poorya Zaremoodi, Srinivasa Phani Kumar Gadde, Aashna Devang Kanuga, Zikai Li, Yuanxu Wu"
     area: "NL2SQL"
   - title: "Distance-based logit value for natural language processing"
     number: "US Patent 12,019,994"
     year: 2024
     status: granted
-    authors: "Ying Xu, Poorya Zaremoodi, Thanh Tien Vu, <strong>Cong Duy Vu Hoang</strong>, Vladislav Blinov, Yu-Heng Hong, Yakupitiyage Don Thanuja Samodhye Dharmasiri, Vishal Vishnoi, Elias Luqman Jalaluddin, Manish Parekh, Thanh Long Duong, Mark Edward Johnson"
+    authors: "Ying Xu, Poorya Zaremoodi, Thanh Tien Vu, Cong Duy Vu Hoang, Vladislav Blinov, Yu-Heng Hong, Yakupitiyage Don Thanuja Samodhye Dharmasiri, Vishal Vishnoi, Elias Luqman Jalaluddin, Manish Parekh, Thanh Long Duong, Mark Edward Johnson"
     area: "NL2SQL"
   - title: "Techniques for out-of-domain (OOD) detection"
     number: "US Patent 12,014,146"
     year: 2024
     status: granted
-    authors: "Thanh Long Duong, Mark Edward Johnson, Vishal Vishnoi, Crystal C. Pan, Vladislav Blinov, <strong>Cong Duy Vu Hoang</strong>, Elias Luqman Jalaluddin, Duy Vu, Balakota Srinivas Vinnakota"
+    authors: "Thanh Long Duong, Mark Edward Johnson, Vishal Vishnoi, Crystal C. Pan, Vladislav Blinov, Cong Duy Vu Hoang, Elias Luqman Jalaluddin, Duy Vu, Balakota Srinivas Vinnakota"
     area: "NL2SQL"
   - title: "Enhanced logits for natural language processing"
     number: "US Patent 11,972,220"
     year: 2024
     status: granted
-    authors: "Ying Xu, Poorya Zaremoodi, Thanh Tien Vu, <strong>Cong Duy Vu Hoang</strong>, Vladislav Blinov, Yu-Heng Hong, Yakupitiyage Don Thanuja Samodhye Dharmasiri, Vishal Vishnoi, Elias Luqman Jalaluddin, Manish Parekh, Thanh Long Duong, Mark Edward Johnson"
+    authors: "Ying Xu, Poorya Zaremoodi, Thanh Tien Vu, Cong Duy Vu Hoang, Vladislav Blinov, Yu-Heng Hong, Yakupitiyage Don Thanuja Samodhye Dharmasiri, Vishal Vishnoi, Elias Luqman Jalaluddin, Manish Parekh, Thanh Long Duong, Mark Edward Johnson"
     area: "NL2SQL"
   - title: "Techniques for out-of-domain (OOD) detection"
     number: "US Patent 11,763,092"
     year: 2023
     status: granted
-    authors: "Thanh Long Duong, Mark Edward Johnson, Vishal Vishnoi, Crystal C. Pan, Vladislav Blinov, <strong>Cong Duy Vu Hoang</strong>, Elias Luqman Jalaluddin, Duy Vu, Balakota Srinivas Vinnakota"
+    authors: "Thanh Long Duong, Mark Edward Johnson, Vishal Vishnoi, Crystal C. Pan, Vladislav Blinov, Cong Duy Vu Hoang, Elias Luqman Jalaluddin, Duy Vu, Balakota Srinivas Vinnakota"
     area: "NL2SQL"
   - title: "Method and system for training neural sequence-to-sequence models by incorporating global features"
     number: "US Patent 11,681,911"
     year: 2023
     status: granted
-    authors: "<strong>Cong Duy Vu Hoang</strong>, Ioan Calapodescu, Marc Dymetman"
+    authors: "Cong Duy Vu Hoang, Ioan Calapodescu, Marc Dymetman"
     area: "ML Training"
   - title: "Task-oriented dialog suitable for a standalone device"
     number: "US Patent 11,574,636"
     year: 2023
     status: granted
-    authors: "Thanh Long Duong, Mark Edward Johnson, <strong>Cong Duy Vu Hoang</strong>, Tuyen Quang Pham, Yu-Heng Hong, Vladislavs Dovgalecs, Guy Bashkansky, Jason Eric Black, Andrew David Bleeker, Serge Le Huitouze"
+    authors: "Thanh Long Duong, Mark Edward Johnson, Cong Duy Vu Hoang, Tuyen Quang Pham, Yu-Heng Hong, Vladislavs Dovgalecs, Guy Bashkansky, Jason Eric Black, Andrew David Bleeker, Serge Le Huitouze"
     area: "Dialogue"
   # ---- PATENT APPLICATIONS (newest first) ----
   - title: "Large language models for nl2sql with long context finetuning"
     number: "US Patent App. 19/035,561"
     year: 2026
     status: application
-    authors: "<strong>Cong Duy Vu Hoang</strong> et al."
+    authors: "Cong Duy Vu Hoang et al."
     area: "NL2SQL"
   - title: "Fusion of word embeddings and word scores for text classification"
     number: "US Patent App. 19/415,225"
     year: 2026
     status: application
-    authors: "<strong>Cong Duy Vu Hoang</strong> et al."
+    authors: "Cong Duy Vu Hoang et al."
     area: "Text Classification"
   - title: "Fine-tuning multi-head network from a single transformer layer of pre-trained language model"
     number: "US Patent App. 19/402,418"
     year: 2026
     status: application
-    authors: "<strong>Cong Duy Vu Hoang</strong> et al."
+    authors: "Cong Duy Vu Hoang et al."
     area: "ML Training"
   - title: "In-context learning for nl2sql with pattern based retrieval"
     number: "US Patent App. 19/062,932"
     year: 2026
     status: application
-    authors: "<strong>Cong Duy Vu Hoang</strong> et al."
+    authors: "Cong Duy Vu Hoang et al."
     area: "NL2SQL"
   - title: "Generating test suites for testing code modules"
     number: "US Patent App. 18/936,052"
     year: 2026
     status: application
-    authors: "<strong>Cong Duy Vu Hoang</strong> et al."
+    authors: "Cong Duy Vu Hoang et al."
     area: "NL2Code"
   - title: "SQL fixit-automated generation of fine-tuning data using llms"
     number: "US Patent App. 18/820,708"
     year: 2026
     status: application
-    authors: "<strong>Cong Duy Vu Hoang</strong> et al."
+    authors: "Cong Duy Vu Hoang et al."
     area: "NL2SQL"
   - title: "Execution and semantic error correction capabilities for natural language to logical form model"
     number: "US Patent App. 18/788,732"
     year: 2026
     status: application
-    authors: "<strong>Cong Duy Vu Hoang</strong> et al."
+    authors: "Cong Duy Vu Hoang et al."
     area: "NL2SQL"
   - title: "Calibrating confidence scores of a machine learning model trained as a natural language interface"
     number: "US Patent App. 19/311,565"
     year: 2025
     status: application
-    authors: "<strong>Cong Duy Vu Hoang</strong> et al."
+    authors: "Cong Duy Vu Hoang et al."
     area: "NL2SQL"
   - title: "Context tag integration with named entity recognition models"
     number: "US Patent App. 19/235,404"
     year: 2025
     status: application
-    authors: "<strong>Cong Duy Vu Hoang</strong> et al."
+    authors: "Cong Duy Vu Hoang et al."
     area: "NER"
   - title: "Techniques for efficient encoding in neural semantic parsing systems"
     number: "US Patent App. 18/409,676"
     year: 2025
     status: application
-    authors: "<strong>Cong Duy Vu Hoang</strong>, Poorya Zaremoodi, Thanh Tien Vu, Gioacchino Tangari, Mark Edward Johnson, Thanh Long Duong, Vishal Vishnoi"
+    authors: "Cong Duy Vu Hoang et al."
     area: "NL2SQL"
   - title: "Resolving date/time expression ambiguity in transforming natural language to a meaning representation"
     number: "US Patent App. 18/409,193"
     year: 2025
     status: application
-    authors: "<strong>Cong Duy Vu Hoang</strong> et al."
+    authors: "Cong Duy Vu Hoang et al."
     area: "NL2SQL"
   - title: "Framework for focused training of language models and techniques for end-to-end hypertuning of the framework"
     number: "US Patent App. 19/085,675"
     year: 2025
     status: application
-    authors: "Poorya Zaremoodi, <strong>Cong Duy Vu Hoang</strong>, Duy Vu, Dai Hoang Tran, Budhaditya Saha, et al."
+    authors: "Cong Duy Vu Hoang et al."
     area: "LLM Training"
   - title: "System and techniques for handling long text for pre-trained language models"
     number: "US Patent App. 18/987,825"
     year: 2025
     status: application
-    authors: "<strong>Cong Duy Vu Hoang</strong> et al."
+    authors: "Cong Duy Vu Hoang et al."
     area: "NLP"
   - title: "Managing date-time intervals in transforming natural language to a logical form"
     number: "US Patent App. 18/794,986"
     year: 2025
     status: application
-    authors: "<strong>Cong Duy Vu Hoang</strong> et al."
+    authors: "Cong Duy Vu Hoang et al."
     area: "NL2SQL"
   - title: "Techniques for transforming natural language conversation into a visualization representation"
     number: "US Patent App. 18/616,801"
     year: 2025
     status: application
-    authors: "<strong>Cong Duy Vu Hoang</strong> et al."
+    authors: "Cong Duy Vu Hoang et al."
     area: "Analytics"
   - title: "Techniques for manufacturing training data to transform natural language into a visualization representation"
     number: "US Patent App. 18/593,316"
     year: 2025
     status: application
-    authors: "<strong>Cong Duy Vu Hoang</strong> et al."
+    authors: "Cong Duy Vu Hoang et al."
     area: "Analytics"
   - title: "Multi-feature balancing for natural language processors"
     number: "US Patent App. 18/819,441"
     year: 2024
     status: application
-    authors: "<strong>Cong Duy Vu Hoang</strong> et al."
+    authors: "Cong Duy Vu Hoang et al."
     area: "NL2SQL"
   - title: "System and method of selective fine-tuning for custom training of a natural language to logical form model"
     number: "US Patent App. 18/236,192"
     year: 2024
     status: application
-    authors: "<strong>Cong Duy Vu Hoang</strong> et al."
+    authors: "Cong Duy Vu Hoang et al."
     area: "ML Training"
   - title: "Techniques for converting a natural language utterance to an intermediate database query representation"
     number: "US Patent App. 18/209,844"
     year: 2024
     status: application
-    authors: "<strong>Cong Duy Vu Hoang</strong>, Stephen Andrew McRitchie, Mark Edward Johnson, et al."
+    authors: "Cong Duy Vu Hoang et al."
     area: "NL2SQL"
   - title: "Data manufacturing frameworks for synthesizing synthetic training data to facilitate training a natural language to logical form model"
     number: "US Patent App. 18/065,434"
     year: 2023
     status: application
-    authors: "Philip Arthur, Vishal Vishnoi, Mark Edward Johnson, Thanh Long Duong, Srinivasa Phani Kumar Gadde, Balakota Srinivas Vinnakota, <strong>Cong Duy Vu Hoang</strong>, Steve Wai-Chun Siu, Nitika Mathur, Gioacchino Tangari, Aashna Devang Kanuga"
+    authors: "Cong Duy Vu Hoang et al."
     area: "NL2SQL"
   - title: "Method and system for target based hyper-parameter tuning"
     number: "US Patent App. 17/216,498"
     year: 2021
     status: application
-    authors: "<strong>Cong Duy Vu Hoang</strong> et al."
+    authors: "Cong Duy Vu Hoang et al."
     area: "ML Training"
 papers:
   - layout: paper
@@ -333,6 +333,7 @@ papers:
     selected: yes
     year: 2026
     img: clarity2026nl2sql
+    area: "NL2SQL"
     title: "CLARITY: A Framework and Benchmark for Conversational Language Ambiguity and Unanswerability in Interactive NL2SQL Systems"
     authors: Tabinda Sarwar, Farhad Moghimifar, Cong Duy Vu Hoang, Xiaoxiao Ma, Shawn Chang Xu, Fahimeh Saleh, Poorya Zaremoodi, Avirup Sil, Katrin Kirchhoff
     booktitle: Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026) (Industry Track)
@@ -351,6 +352,7 @@ papers:
     selected: yes
     year: 2025
     img: distillc2025nl2sql
+    area: "NL2SQL"
     title: "Distill-C: Enhanced NL2SQL via Distilled Customization with LLMs"
     authors: Cong Duy Vu Hoang, Gioacchino Tangari, Clemence Lanfranchi, Dalu Guo, Paul Cayet, Steve Siu, Don Dharmasiri, Yuan-Fang Li, Long Duong, Damien Hilloulin, Rhicheek Patra, Sungpack Hong, Hassan Chafi
     booktitle: Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL 2025) (Industry Track)
@@ -368,6 +370,7 @@ papers:
     selected: yes
     year: 2025
     img: codellms2025synthesis
+    area: "NL2Code"
     title: "Mastering the Craft of Data Synthesis for CodeLLMs"
     authors: Meng Chen, Philip Arthur, Qianyu Feng, Cong Duy Vu Hoang, Yu-Heng Hong, Mahdi Kazemi Moghaddam, Omid Nezami, Duc Thien Nguyen, Gioacchino Tangari, Duy Vu, Thanh Vu, Mark Johnson, Krishnaram Kenthapadi, Don Dharmasiri, Long Duong, Yuan-Fang Li
     booktitle: Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL 2025) (Long Paper)
@@ -385,6 +388,7 @@ papers:
     selected: no
     year: 2025
     img: sqlong2025nl2sql
+    area: "NL2SQL"
     title: "SQLong: Enhanced NL2SQL for Longer Contexts with LLMs"
     authors: Quoc Dai Nguyen, Cong Duy Vu Hoang, Duy Quang Vu, Gioacchino Tangari, Thanh Vu, Don Dharmasiri, Yuan-Fang Li, Long Duong
     booktitle: Proceedings of the 4th Table Representation Learning Workshop at ACL 2025
@@ -402,6 +406,7 @@ papers:
     selected: yes 
     year: 2019
     img: phdthesis2019unimelbvu
+    area: "PhD Thesis"
     title: On the Use of Prior and External Knowledge in Neural Sequence Models
     institution: The University of Melbourne, VIC, Australia
     doc-url: http://hdl.handle.net/11343/225845
@@ -417,8 +422,9 @@ papers:
     selected: yes
     year: 2019
     img: acl2019demo
+    area: "Dialogue"
     title: An Adaptable Task-oriented Dialog System for Stand-alone Embedded Devices
-    authors: Long Duong, Vu Cong Duy Hoang, Tuyen Quang Pham, Yu-Heng Hong, Vladislavs Dovgalecs, Guy Bashkansky, Jason Black, Andrew Bleeker, Serge Le Huitouze, Mark Johnson
+    authors: Long Duong, Cong Duy Vu Hoang, Tuyen Quang Pham, Yu-Heng Hong, Vladislavs Dovgalecs, Guy Bashkansky, Jason Black, Andrew Bleeker, Serge Le Huitouze, Mark Johnson
     booktitle: Proceedings of Annual Meeting of the Association for Computational Linguistics (ACL-19) (System Demonstrations)
     booktitle-url: 
     doc-url:  https://www.aclweb.org/anthology/papers/P/P19/P19-3009/
@@ -433,6 +439,7 @@ papers:
     year: 2018
     selected: yes
     img: arxiv2018mm
+    area: "Machine Translation"
     title: Moment Matching Training for Neural Machine Translation - A Preliminary Study
     authors: Cong Duy Vu Hoang, Ioan Calapodescu, Marc Dymetman
     journal: arXiv preprint
@@ -454,6 +461,7 @@ papers:
     selected: yes
     year: 2018
     img: alta2018sidenmt
+    area: "Machine Translation"
     title: Improved Neural Machine Translation using Side Information
     authors: Cong Duy Vu Hoang, Gholamreza Haffari and Trevor Cohn
     booktitle:  Proceedings of The 16th Annual Workshop of The Australasian Language Technology Association (ALTA'18) (long, oral) (best paper award)
@@ -470,6 +478,7 @@ papers:
     selected: yes
     year: 2018
     img: wnmt2018ibtnmt
+    area: "Machine Translation"
     title: Iterative Back-Translation for Neural Machine Translation
     authors: Cong Duy Vu Hoang, Philipp Koehn, Gholamreza Haffari and Trevor Cohn
     booktitle:  Proceedings of The 2nd Workshop on Neural Machine Translation and Generation associated with ACL 2018 (long, poster)
@@ -485,6 +494,7 @@ papers:
     selected: yes
     year: 2017
     img: emnlp2017relopt
+    area: "Machine Translation"
     title: Towards Decoding as Continuous Optimization in Neural Machine Translation
     authors: Cong Duy Vu Hoang, Gholamreza Haffari and Trevor Cohn
     booktitle:  Proceedings of Conference on Empirical Methods in Natural Language Processing (EMNLP'17) (long, oral)
@@ -505,6 +515,7 @@ papers:
     selected: yes
     year: 2016
     img: alta2016nmtlingfactors
+    area: "Machine Translation"
     title: Improving Neural Translation Models with Linguistic Factors
     authors: Cong Duy Vu Hoang, Gholamreza Haffari and Trevor Cohn
     booktitle: Proceedings of The 14th Annual Workshop of The Australasian Language Technology Association (ALTA'16) (long, oral) (best paper award)
@@ -527,6 +538,7 @@ papers:
     selected: yes
     year: 2016
     img: naacl16nmtaligns
+    area: "Machine Translation"
     title: Incorporating Structural Alignment Biases into an Attentional Neural Translation Model
     authors: Trevor Cohn, Cong Duy Vu Hoang, Ekaterina Vylomova, Kaisheng Yao, Chris Dyer and Gholamreza Haffari
     booktitle: Proceedings of The 15th Annual Conference of the North American Chapter of the Association for Computational Linguistics - Human Language Technologies (NAACL-HLT'16) (long)
@@ -549,6 +561,7 @@ papers:
     selected: yes
     year: 2016
     img: naacl16rnnlmside
+    area: "Language Modeling"
     title: Incorporating Side Information into Recurrent Neural Network Language Models
     authors: Cong Duy Vu Hoang, Gholamreza Haffari and Trevor Cohn
     booktitle: Proceedings of The 15th Annual Conference of the North American Chapter of the Association for Computational Linguistics - Human Language Technologies (NAACL-HLT'16) (short)
@@ -569,6 +582,7 @@ papers:
     paper-type: inproceedings
     year: 2015
     img: openmt15i2rsystem
+    area: "Machine Translation"
     title: I2R Chinese-English Translation System for OpenMT 2015
     authors: Xuancong Wang, Cong Duy Vu Hoang, Kui Wu, Nina Zhou, Boon Hong Yeo, AiTi Aw, Haizhou Li
     booktitle: Proceedings of the NIST Open Machine Translation Evaluation (OpenMT15)
@@ -590,6 +604,7 @@ papers:
     paper-type: inproceedings
     year: 2014
     img: acl14smtrule
+    area: "Machine Translation"
     title: A Rule-Augmented Statistical Phrase-based Translation System
     authors: Cong Duy Vu Hoang, AiTi Aw, Hong-Nhung Nguyen-Thi
     booktitle: Proceedings of Annual Meeting of the Association for Computational Linguistics (ACL-14) (System Demonstration Track)
@@ -611,6 +626,7 @@ papers:
     paper-type: article
     year: 2013
     img: jlre13humancomputing
+    area: "Crowdsourcing"
     title: Perspectives on Crowdsourcing Annotations for Natural Language Processing
     authors: Aobo Wang, Cong Duy Vu Hoang, Min-Yen Kan
     journal: Language Resources and Evaluation Journal (JLRE)
@@ -630,6 +646,7 @@ papers:
     paper-type: inproceedings
     year: 2012
     img: eacl12wsocrspell
+    area: "NLP"
     title: An Unsupervised and Data-Driven Approach for Spell Checking in Vietnamese OCR-scanned Texts
     authors: Cong Duy Vu Hoang, Ai Ti Aw
     booktitle: Proceedings of the EACL'12 Workshop on Innovative Hybrid Approaches to the Processing of Textual Data (long)
@@ -650,6 +667,7 @@ papers:
     paper-type: inproceedings
     year: 2010
     img: coling10relatedworksum
+    area: "Summarization"
     title: Towards Automated Related Work Summarization
     authors: Cong Duy Vu Hoang, Min-Yen Kan
     booktitle: Proceedings of the 23rd International Conference on Computational Linguistics (COLING) (long)
@@ -669,6 +687,7 @@ papers:
     paper-type: masterdissertation 
     year: 2010
     img: masterthesis2010nusvu
+    area: "Summarization"
     title: Towards Automated Related Work Summarization
     institution: National University of Singapore
     doc-url: http://scholarbank.nus.sg/bitstream/handle/10635/20953/HoangCDV.pdf?sequence=1
@@ -692,6 +711,7 @@ papers:
     paper-type: inproceedings
     year: 2008
     img: rivf08smtdepreorder
+    area: "Machine Translation"
     title:  A Dependency-based Word Reordering Approach for Statistical Machine Translation
     authors: Cong Duy Vu Hoang, Mai Ngo, Dien Dinh
     booktitle: Proceedings of IEEE International Conference on Research, Innovation and Vision for the Future (RIVF 2008) (long)
@@ -716,6 +736,7 @@ papers:
     paper-type: inproceedings
     year: 2007
     img: rivf07vtc
+    area: "Text Classification"
     title:  A Comparative Study on Vietnamese Text Classification Methods
     authors: Cong Duy Vu Hoang, Dien Dinh, Le Nguyen Nguyen, Quoc Hung Ngo
     booktitle: Proceedings of IEEE International Conference on Research, Innovation and Vision for the Future (RIVF 2007) (long)

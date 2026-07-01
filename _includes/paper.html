@@ -4,7 +4,7 @@
   </a>
   <div class="media-body">
     <strong>{{ include.paper.title }}</strong><br/>
-    {% if include.paper.authors %}{{ include.paper.authors }}.{% endif %}  
+    {% if include.paper.authors %}{{ include.paper.authors | replace: "Cong Duy Vu Hoang", "<strong>Cong Duy Vu Hoang</strong>" }}.{% endif %}
     {% case include.paper.paper-type %}
       {% when "inproceedings" %}
         In
@@ -31,7 +31,9 @@
       {% when "phddissertation" %}
         PhD Thesis, {{ include.paper.institution }}.
     {% endcase %} 
-    {{ include.paper.year }}.<br/>
+    {{ include.paper.year }}.
+    {% if include.paper.area %}<span class="label label-info" style="font-size:0.82em;">{{ include.paper.area }}</span>{% endif %}
+    <br/>
     {% if include.paper.abstract %}
     <a data-toggle="modal" href="#abstract{{ include.paper.img }}" class="label label-default">Abstract</a>
       <!-- Modal -->

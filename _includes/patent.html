@@ -14,5 +14,5 @@
       <span class="label label-info" style="font-size: 0.8em;">{{ include.patent.area }}</span>
     {% endif %}
   </span><br/>
-  <small class="text-muted">{{ include.patent.authors }}</small>
+  <small class="text-muted">{{ include.patent.authors | replace: "Cong Duy Vu Hoang", "<strong>Cong Duy Vu Hoang</strong>" }}</small>
 </div>
