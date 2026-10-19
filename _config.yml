@@ -345,6 +345,7 @@ papers:
     booktitle: Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026) (Industry Track)
     booktitle-url: https://aclanthology.org/2026.acl-industry.86/
     doc-url: https://aclanthology.org/2026.acl-industry.86/
+    code: https://github.com/duyvuleo/clarity
     venue: conference
     abstract: >
       We introduce CLARITY, a framework and benchmark for evaluating conversational language ambiguity and
