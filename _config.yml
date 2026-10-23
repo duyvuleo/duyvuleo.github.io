@@ -2,6 +2,24 @@ exclude: ['README.md']
 timezone: AU
 patents:
   # ---- GRANTED PATENTS (newest first) ----
+  - title: "Techniques for efficient encoding in neural semantic parsing systems"
+    number: "US Patent 12,699,692"
+    year: 2026
+    status: granted
+    authors: "Cong Duy Vu Hoang, Poorya Zaremoodi, Thanh Tien Vu, Gioacchino Tangari, Mark Edward Johnson, Thanh Long Duong, Vishal Vishnoi"
+    area: "NL2SQL"
+  - title: "Form conversion using preference alignment training"
+    number: "US Patent 12,694,019"
+    year: 2026
+    status: granted
+    authors: "Thanh Tien Vu, Prashan Madumal, Omid Mohamad Nezami, Cong Duy Vu Hoang, Gioacchino Tangari, Duy Vu, Dai Quoc Nguyen, Yakupitiyage Don Thanuja Samodhye Dharmasiri, Ying Xu, Thanh Long Duong, Clemence Andree Simone Lanfranchi, Damien Alexandre Hilloulin, Rhicheek Patra, Sungpack Hong, Hassan Chafi"
+    area: "ML Training"
+  - title: "Techniques for transforming natural language conversation into a visualization representation"
+    number: "US Patent 12,664,159"
+    year: 2026
+    status: granted
+    authors: "Cong Duy Vu Hoang, Gioacchino Tangari, Stephen Andrew McRitchie, Nitika Mathur, Aashna Devang Kanuga, Steve Wai-Chun Siu, Dalu Guo, Chang Xu, Mark Edward Johnson, Christopher Mark Broadbent, Thanh Long Duong, Srinivasa Phani Kumar Gadde, Vishal Vishnoi, Chandan Basavaraju, Kenneth Khiaw Hong Eng"
+    area: "Analytics"
   - title: "Detecting out-of-domain, out-of-scope, and confusion-span (OOCS) input for a natural language to logical form model"
     number: "US Patent 12,608,373"
     year: 2026
@@ -207,6 +225,30 @@ patents:
     authors: "Thanh Long Duong, Mark Edward Johnson, Cong Duy Vu Hoang, Tuyen Quang Pham, Yu-Heng Hong, Vladislavs Dovgalecs, Guy Bashkansky, Jason Eric Black, Andrew David Bleeker, Serge Le Huitouze"
     area: "Dialogue"
   # ---- PATENT APPLICATIONS (newest first) ----
+  - title: "Benchmarking and modifying behavioral robustness of text-to-sql models"
+    number: "US Patent App. 19/301,535"
+    year: 2026
+    status: application
+    authors: "Varsha Kuppur Rajendra, Duy Vu, Gioacchino Tangari, Dalu Guo, Steve Wai-Chun Siu, Cong Duy Vu Hoang, Yakupitiyage Don Thanuja Samodhye Dharmasiri, Thanh Long Duong"
+    area: "NL2SQL"
+  - title: "Generative model based query language generation for date time expressions"
+    number: "US Patent App. 19/255,059"
+    year: 2026
+    status: application
+    authors: "Duy Vu, Nagesh Panyam Chandrasekarasastry, Gioacchino Tangari, Cong Duy Vu Hoang, Yakupitiyage Don Thanuja Samodhye Dharmasiri, Thanh Long Duong, Anshuk Pal Chaudhuri, Karthik Puthenparampil Srinivasan, Kok Wei Kam, Prabhakara Reddy Munnangi, Subhash Kumar Bhamidipati"
+    area: "NL2SQL"
+  - title: "Instruction induction for nl2sql prompts and generative models"
+    number: "US Patent App. 19/254,831"
+    year: 2026
+    status: application
+    authors: "Duy Vu, Gioacchino Tangari, Budhaditya Saha, Dai Quoc Nguyen, Thanh Tien Vu, Nagesh Panyam Chandrasekarasatry, Cong Duy Vu Hoang, Yakupitiyage Don Thanuja Samodhye Dharmasiri, Thanh Long Duong"
+    area: "NL2SQL"
+  - title: "Correction based preference alignment fine-tuning for low resource programming languages"
+    number: "US Patent App. 19/236,055"
+    year: 2026
+    status: application
+    authors: "Prashan Madumal, Duc Thien Nguyen, Omid Mohamad Nezami, Dai Quoc Nguyen, Mohammad Mahdi Kazemi Moghaddam, Philip Arthur, Tuyen Quang Pham, Thanh Tien Vu, Cong Duy Vu Hoang, Yakupitiyage Don Thanuja Samodhye Dharmasiri, Thanh Long Duong"
+    area: "NL2Code"
   - title: "Large language models for nl2sql with long context finetuning"
     number: "US Patent App. 19/035,561"
     year: 2026
@@ -261,12 +303,6 @@ patents:
     status: application
     authors: "Duy Vu, Tuyen Quang Pham, Cong Duy Vu Hoang, Srinivasa Phani Kumar Gadde, Thanh Long Duong, Mark Edward Johnson, Vishal Vishnoi"
     area: "NER"
-  - title: "Techniques for efficient encoding in neural semantic parsing systems"
-    number: "US Patent App. 18/409,676"
-    year: 2025
-    status: application
-    authors: "Cong Duy Vu Hoang, Poorya Zaremoodi, Thanh Tien Vu, Gioacchino Tangari, Mark Edward Johnson, Thanh Long Duong, Vishal Vishnoi"
-    area: "NL2SQL"
   - title: "Resolving date/time expression ambiguity in transforming natural language to a meaning representation"
     number: "US Patent App. 18/409,193"
     year: 2025
@@ -291,12 +327,6 @@ patents:
     status: application
     authors: "Gioacchino Tangari, Cong Duy Vu Hoang, Dalu Guo, Steve Wai-Chun Siu, Stephen Andrew McRitchie, Christopher Mark Broadbent, Thanh Long Duong, Srinivasa Phani Kumar Gadde, Vishal Vishnoi, Kenneth Khiaw Hong Eng, Chandan Basavaraju"
     area: "NL2SQL"
-  - title: "Techniques for transforming natural language conversation into a visualization representation"
-    number: "US Patent App. 18/616,801"
-    year: 2025
-    status: application
-    authors: "Cong Duy Vu Hoang, Gioacchino Tangari, Stephen Andrew McRitchie, Nitika Mathur, Aashna Devang Kanuga, Steve Wai-Chun Siu, Dalu Guo, Chang Xu, Mark Edward Johnson, Christopher Mark Broadbent, Thanh Long Duong, Srinivasa Phani Kumar Gadde, Vishal Vishnoi, Chandan Basavaraju, Kenneth Khiaw Hong Eng"
-    area: "Analytics"
   - title: "Techniques for manufacturing training data to transform natural language into a visualization representation"
     number: "US Patent App. 18/593,316"
     year: 2025
