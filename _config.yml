@@ -6,18 +6,21 @@ patents:
     number: "US Patent 12,699,692"
     year: 2026
     status: granted
+    selected: yes
     authors: "Cong Duy Vu Hoang, Poorya Zaremoodi, Thanh Tien Vu, Gioacchino Tangari, Mark Edward Johnson, Thanh Long Duong, Vishal Vishnoi"
     area: "NL2SQL"
   - title: "Form conversion using preference alignment training"
     number: "US Patent 12,694,019"
     year: 2026
     status: granted
+    selected: yes
     authors: "Thanh Tien Vu, Prashan Madumal, Omid Mohamad Nezami, Cong Duy Vu Hoang, Gioacchino Tangari, Duy Vu, Dai Quoc Nguyen, Yakupitiyage Don Thanuja Samodhye Dharmasiri, Ying Xu, Thanh Long Duong, Clemence Andree Simone Lanfranchi, Damien Alexandre Hilloulin, Rhicheek Patra, Sungpack Hong, Hassan Chafi"
     area: "ML Training"
   - title: "Techniques for transforming natural language conversation into a visualization representation"
     number: "US Patent 12,664,159"
     year: 2026
     status: granted
+    selected: yes
     authors: "Cong Duy Vu Hoang, Gioacchino Tangari, Stephen Andrew McRitchie, Nitika Mathur, Aashna Devang Kanuga, Steve Wai-Chun Siu, Dalu Guo, Chang Xu, Mark Edward Johnson, Christopher Mark Broadbent, Thanh Long Duong, Srinivasa Phani Kumar Gadde, Vishal Vishnoi, Chandan Basavaraju, Kenneth Khiaw Hong Eng"
     area: "Analytics"
   - title: "Detecting out-of-domain, out-of-scope, and confusion-span (OOCS) input for a natural language to logical form model"
